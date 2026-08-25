@@ -2,9 +2,8 @@ name: Auto Update Node Files
 
 on:
   schedule:
-    # 国际标准时间 UTC 04:00 对应 北京时间 12:00
-    - cron: '0 4 * * *'
-  workflow_dispatch: # 允许手动点击触发运行
+    - cron: '0 4 * * *' # 北京时间 12:00
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -22,16 +21,11 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 安装 Puppeteer 依赖
+        run: npm install puppeteer
+
       - name: 执行处理脚本
-        run: |
-          if [ -f "process.js" ]; then
-            node process.js
-          elif [ -f ".github/workflows/process.js" ]; then
-            node .github/workflows/process.js
-          else
-            echo "找不到 process.js 文件"
-            exit 1
-          fi
+        run: node process.js
 
       - name: 提交并推送更新后的文件
         run: |
