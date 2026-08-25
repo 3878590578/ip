@@ -15,7 +15,7 @@ const countryMap = {
 // 2. 排序权重
 const sortOrder = ["HK", "TW", "SG", "JP", "KR", "US", "IN"];
 
-// 使用真实 Chrome 浏览器模拟访问以穿透 Cloudflare
+// 使用无头 Chrome 抓取并解析 JSON
 async function fetchWithPuppeteer() {
   console.log("启动无头 Chrome 浏览器拉取数据...");
   const browser = await puppeteer.launch({
@@ -29,7 +29,6 @@ async function fetchWithPuppeteer() {
 
   const page = await browser.newPage();
   
-  // 伪装浏览器特征
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
   
   try {
@@ -38,14 +37,19 @@ async function fetchWithPuppeteer() {
       timeout: 60000
     });
 
-    // 提取页面中的 JSON 内容
-    const content = await page.evaluate(() => document.body.innerText);
+    // 从页面节点中提取纯文本 JSON
+    const jsonText = await page.evaluate(() => {
+      return document.querySelector('pre') ? document.querySelector('pre').innerText : document.body.innerText;
+    });
+
     await browser.close();
 
-    return JSON.parse(content);
+    // 解析 JSON
+    const parsedData = JSON.parse(jsonText.trim());
+    return Array.isArray(parsedData) ? parsedData : (parsedData.data || []);
   } catch (err) {
     await browser.close();
-    throw new Error(`Puppeteer 抓取失败: ${err.message}`);
+    throw new Error(`Puppeteer 抓取或解析失败: ${err.message}`);
   }
 }
 
