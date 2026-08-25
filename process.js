@@ -14,22 +14,34 @@ const countryMap = {
 // 2. 排序权重
 const sortOrder = ["HK", "TW", "SG", "JP", "KR", "US", "IN"];
 
+async function fetchData(url) {
+  const headers = {
+    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Cache-Control': 'no-cache'
+  };
+
+  let response = await fetch(url, { headers });
+  
+  // 如果还是被拦截，尝试备用 User-Agent
+  if (response.status === 403) {
+    headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
+    response = await fetch(url, { headers });
+  }
+
+  if (!response.ok) {
+    throw new Error(`HTTP 请求失败: ${response.status}`);
+  }
+  return await response.json();
+}
+
 async function main() {
   try {
-    // 提取并解析 JSON 数据（添加 User-Agent 防拦截 403）
-    const response = await fetch("https://zip.cm.edu.kg/all.json", {
-      headers: {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "application/json, text/plain, */*"
-      }
-    });
-
-    if (!response.ok) throw new Error(`HTTP 请求失败: ${response.status}`);
-    const data = await response.json();
-
+    const data = await fetchData("https://zip.cm.edu.kg/all.json");
     let rawLines = [];
-    
-    // 解析源文件格式：IP:Port#US-AS31898-Oracle Corporation
+
+    // 解析格式：IP:Port#US-AS31898-Oracle Corporation
     for (const item of data) {
       if (!item.ip || !item.port || !item.port.length || !item.meta) continue;
       const ip = item.ip;
@@ -60,7 +72,7 @@ async function main() {
       };
     });
 
-    // 按照指定国家权重排序
+    // 排序
     parsedLines.sort((a, b) => {
       let indexA = sortOrder.indexOf(a.countryCode);
       let indexB = sortOrder.indexOf(b.countryCode);
@@ -92,7 +104,6 @@ async function main() {
       let finalLine = `${item.beforeSharp}#${newAfterSharp}-${nameCounter[newAfterSharp]}`;
       allResultLines.push(finalLine);
 
-      // 分流到对应国家列表中
       if (countryGroup[item.countryCode]) {
         countryGroup[item.countryCode].push(finalLine);
       }
@@ -101,12 +112,12 @@ async function main() {
     // 写入 quanbu.txt
     fs.writeFileSync('quanbu.txt', allResultLines.join('\n'));
 
-    // 循环写入各个国家的 txt 文件 (覆盖写入)
+    // 写入各个国家的 txt 文件
     for (const code of sortOrder) {
       fs.writeFileSync(`${code}.txt`, countryGroup[code].join('\n'));
     }
 
-    console.log("处理完毕：quanbu.txt 及各个国家 txt 文件已生成。");
+    console.log("处理完毕：所有 txt 文件已成功生成！");
 
   } catch (err) {
     console.error("执行脚本发生错误:", err);
