@@ -1,4 +1,5 @@
 const fs = require('fs');
+const puppeteer = require('puppeteer');
 
 // 1. 国家/地区映射表
 const countryMap = {
@@ -14,38 +15,44 @@ const countryMap = {
 // 2. 排序权重
 const sortOrder = ["HK", "TW", "SG", "JP", "KR", "US", "IN"];
 
-// 针对 403 拦截设计的多通道中转拉取函数
-async function fetchWithFallback() {
-  const targetUrl = "https://zip.cm.edu.kg/all.json";
-  
-  // 备用中转 API 列表，防止直接请求被 Cloudflare 拦截 IP
-  const proxyUrls = [
-    `https://corsproxy.io/?${encodeURIComponent(targetUrl)}`,
-    `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`
-  ];
+// 使用真实 Chrome 浏览器模拟访问以穿透 Cloudflare
+async function fetchWithPuppeteer() {
+  console.log("启动无头 Chrome 浏览器拉取数据...");
+  const browser = await puppeteer.launch({
+    headless: "new",
+    args: [
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled'
+    ]
+  });
 
-  for (const url of proxyUrls) {
-    try {
-      console.log(`尝试通过代理拉取: ${url}`);
-      const res = await fetch(url, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-        }
-      });
-      if (res.ok) {
-        return await res.json();
-      }
-    } catch (e) {
-      console.warn(`当前代理请求失败，正在尝试下一个代理...`);
-    }
-  }
+  const page = await browser.newPage();
   
-  throw new Error("所有代理通道拉取数据均失败，请检查源 JSON 地址是否正常。");
+  // 伪装浏览器特征
+  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+  
+  try {
+    await page.goto("https://zip.cm.edu.kg/all.json", {
+      waitUntil: 'networkidle2',
+      timeout: 60000
+    });
+
+    // 提取页面中的 JSON 内容
+    const content = await page.evaluate(() => document.body.innerText);
+    await browser.close();
+
+    return JSON.parse(content);
+  } catch (err) {
+    await browser.close();
+    throw new Error(`Puppeteer 抓取失败: ${err.message}`);
+  }
 }
 
 async function main() {
   try {
-    const data = await fetchWithFallback();
+    const data = await fetchWithPuppeteer();
+    console.log(`成功获取数据，节点总数: ${data.length}`);
     let rawLines = [];
 
     // 解析格式：IP:Port#US-AS31898-Oracle Corporation
