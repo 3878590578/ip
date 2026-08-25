@@ -16,8 +16,14 @@ const sortOrder = ["HK", "TW", "SG", "JP", "KR", "US", "IN"];
 
 async function main() {
   try {
-    // 提取并解析 JSON 数据
-    const response = await fetch("https://zip.cm.edu.kg/all.json");
+    // 提取并解析 JSON 数据（添加 User-Agent 防拦截 403）
+    const response = await fetch("https://zip.cm.edu.kg/all.json", {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "application/json, text/plain, */*"
+      }
+    });
+
     if (!response.ok) throw new Error(`HTTP 请求失败: ${response.status}`);
     const data = await response.json();
 
