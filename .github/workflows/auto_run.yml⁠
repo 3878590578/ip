@@ -1,0 +1,33 @@
+name: Auto Update Node Files
+
+on:
+  schedule:
+    # 国际标准时间 UTC 04:00 对应 北京时间 12:00
+    - cron: '0 4 * * *'
+  workflow_dispatch: # 允许手动点击触发运行
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Node.js 环境
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 执行处理脚本
+        run: node process.js
+
+      - name: 提交并推送更新后的文件
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add quanbu.txt *.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update node list $(date '+%Y-%m-%d %H:%M:%S')" && git push)
