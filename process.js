@@ -14,31 +14,38 @@ const countryMap = {
 // 2. 排序权重
 const sortOrder = ["HK", "TW", "SG", "JP", "KR", "US", "IN"];
 
-async function fetchData(url) {
-  const headers = {
-    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-    'Cache-Control': 'no-cache'
-  };
-
-  let response = await fetch(url, { headers });
+// 针对 403 拦截设计的多通道中转拉取函数
+async function fetchWithFallback() {
+  const targetUrl = "https://zip.cm.edu.kg/all.json";
   
-  // 如果还是被拦截，尝试备用 User-Agent
-  if (response.status === 403) {
-    headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36';
-    response = await fetch(url, { headers });
-  }
+  // 备用中转 API 列表，防止直接请求被 Cloudflare 拦截 IP
+  const proxyUrls = [
+    `https://corsproxy.io/?${encodeURIComponent(targetUrl)}`,
+    `https://api.allorigins.win/raw?url=${encodeURIComponent(targetUrl)}`
+  ];
 
-  if (!response.ok) {
-    throw new Error(`HTTP 请求失败: ${response.status}`);
+  for (const url of proxyUrls) {
+    try {
+      console.log(`尝试通过代理拉取: ${url}`);
+      const res = await fetch(url, {
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+        }
+      });
+      if (res.ok) {
+        return await res.json();
+      }
+    } catch (e) {
+      console.warn(`当前代理请求失败，正在尝试下一个代理...`);
+    }
   }
-  return await response.json();
+  
+  throw new Error("所有代理通道拉取数据均失败，请检查源 JSON 地址是否正常。");
 }
 
 async function main() {
   try {
-    const data = await fetchData("https://zip.cm.edu.kg/all.json");
+    const data = await fetchWithFallback();
     let rawLines = [];
 
     // 解析格式：IP:Port#US-AS31898-Oracle Corporation
@@ -117,7 +124,7 @@ async function main() {
       fs.writeFileSync(`${code}.txt`, countryGroup[code].join('\n'));
     }
 
-    console.log("处理完毕：所有 txt 文件已成功生成！");
+    console.log("处理完毕：quanbu.txt 及各个国家 txt 文件已成功生成！");
 
   } catch (err) {
     console.error("执行脚本发生错误:", err);
