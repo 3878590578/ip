@@ -23,7 +23,15 @@ jobs:
           node-version: '20'
 
       - name: 执行处理脚本
-        run: node process.js
+        run: |
+          if [ -f "process.js" ]; then
+            node process.js
+          elif [ -f ".github/workflows/process.js" ]; then
+            node .github/workflows/process.js
+          else
+            echo "找不到 process.js 文件"
+            exit 1
+          fi
 
       - name: 提交并推送更新后的文件
         run: |
