@@ -5,6 +5,8 @@ const keywordMap = {
   "AS16509": "Amazon.txt",
   "AS45102": "Alibaba.txt",
   "AS8075": "Microsoft.txt",
+  "AS61112": "AKILE.txt",
+  "AS25820": "Networks.txt",
   "AS967": "VMISS.txt"
 };
 
