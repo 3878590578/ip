@@ -16,10 +16,3 @@
 47.77.210.148:443#🇺🇸美国US-AS45102-Alibaba Cloud LLC-1
 47.251.95.178:443#🇺🇸美国US-AS45102-Alibaba Cloud - US-1
 8.221.126.227:443#🇺🇸美国US-AS45102-Aliyun Computing Co.LTD-1
-47.245.131.215:443#DE-AS45102-Alibaba Cloud LLC-1
-8.209.83.19:443#DE-AS45102-Westendstrabe 28, 60325 Frankfurt am Main-1
-47.250.81.46:2087#MY-AS45102-Alibaba Cloud - MY-1
-47.250.212.59:443#MY-AS45102-Alibaba Cloud LLC-1
-147.139.189.225:443#ID-AS45102-Alibaba Cloud - ID-1
-8.134.218.35:443#DE-AS45102-Alibaba Cloud - DE-1
-8.213.199.128:443#TH-AS45102-Alibaba Cloud (Singapore) Private Limited-1
