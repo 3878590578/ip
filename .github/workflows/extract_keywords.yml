@@ -3,7 +3,7 @@ name: Extract Keyword Files
 on:
   push:
     paths:
-      - 'quanbu.txt' # 当 quanbu.txt 发生变动（无论手动提交还是上个 workflow 推送）均触发
+      - 'quanbu.txt' # 当 quanbu.txt 发生变动时触发
   workflow_dispatch:
 
 jobs:
@@ -24,9 +24,9 @@ jobs:
       - name: 执行关键词提取脚本
         run: node extract_keywords.js
 
-      - name: 提交并推送关键词文件
+      - name: 提交并推送所有关键词文件
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add DMIT.txt Amazon.txt Alibaba.txt Microsoft.txt VMISS.txt
+          git add *.txt
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update keyword node files $(date '+%Y-%m-%d %H:%M:%S')" && git push)
