@@ -1,10 +1,10 @@
 name: Extract Keyword Files
 
 on:
-  push:
-    paths:
-      - 'quanbu.txt' # 当 quanbu.txt 发生变动时触发
-  workflow_dispatch:
+  schedule:
+    # 北京时间 12:50 (对应 UTC 04:50)
+    - cron: '50 4 * * *'
+  workflow_dispatch: # 保留手动运行按钮，方便测试
 
 jobs:
   extract:
