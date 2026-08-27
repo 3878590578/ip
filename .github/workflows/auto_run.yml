@@ -1,4 +1,4 @@
-name: Auto Update Node Files
+name: Auto Update All Node Files
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-script:
+  run-all-scripts:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,15 +21,18 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 安装 Puppeteer
+      - name: 安装 Puppeteer 依赖
         run: npm install puppeteer
 
-      - name: 执行处理脚本
+      - name: 第一步：抓取节点并生成 quanbu.txt 和国家文件
         run: node process.js
 
-      - name: 提交并推送 quanbu.txt 和国家文件
+      - name: 第二步：从中提取关键词文件
+        run: node extract_keywords.js
+
+      - name: 提交并推送所有 .txt 文件
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add quanbu.txt HK.txt TW.txt SG.txt JP.txt KR.txt US.txt IN.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update base node list $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git add *.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update all node files $(date '+%Y-%m-%d %H:%M:%S')" && git push)
