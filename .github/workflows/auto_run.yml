@@ -2,13 +2,13 @@ name: Auto Update Node Files
 
 on:
   schedule:
-    - cron: '0 4 * * *' # 北京时间 12:00
+    # 北京时间 12:10 (对应 UTC 04:10)
+    - cron: '10 4 * * *'
   workflow_dispatch:
 
 jobs:
   run-script:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -21,15 +21,15 @@ jobs:
         with:
           node-version: '20'
 
-      - name: 安装 Puppeteer 依赖
+      - name: 安装 Puppeteer
         run: npm install puppeteer
 
       - name: 执行处理脚本
         run: node process.js
 
-      - name: 提交并推送更新后的文件
+      - name: 提交并推送 quanbu.txt 和国家文件
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add quanbu.txt *.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update node list $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git add quanbu.txt HK.txt TW.txt SG.txt JP.txt KR.txt US.txt IN.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update base node list $(date '+%Y-%m-%d %H:%M:%S')" && git push)
