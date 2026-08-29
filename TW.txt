@@ -5,20 +5,23 @@
 83.147.15.253:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-3
 140.235.38.206:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-4
 78.105.183.11:8443#🇨🇳台湾TW-AS142433-Private Customer-1
-83.147.13.49:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-5
-83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-6
-85.237.207.72:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
-85.237.207.126:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
+83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-5
+85.237.207.72:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-6
+85.237.207.126:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
+203.69.11.80:443#🇨🇳台湾TW-AS3462-Data Communication Business Group,-1
 151.242.188.152:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-1
-142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
-45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
+142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
+45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
 154.40.60.193:443#🇨🇳台湾TW-AS151338-STARVERSE POLOCLOUD 2-1
-141.11.87.48:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
+141.11.87.48:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
+203.69.11.81:443#🇨🇳台湾TW-AS3462-Data Communication Business Group,-2
 151.242.189.184:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-2
 151.242.189.137:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
-85.237.206.231:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
+211.72.147.91:443#🇨🇳台湾TW-AS3462-Data Communication Business Group,-3
+203.69.11.79:443#🇨🇳台湾TW-AS3462-Data Communication Business Group,-4
+85.237.206.231:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
 213.210.4.238:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
 114.32.9.249:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-1
 136.0.54.169:443#🇨🇳台湾TW-AS32167-ACCK LLC-1
 2.27.174.68:443#🇨🇳台湾TW-AS32167-ACCK LLC-2
-140.235.38.47:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
+140.235.38.47:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12

@@ -11,7 +11,7 @@
 146.56.151.92:443#🇰🇷韩国KR-AS31898-Oracle Corporation-2
 132.145.91.181:8443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-2
 43.155.221.27:8443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-3
-119.28.162.39:8443#🇰🇷韩国KR-AS13335-Cloudflare, Inc.-1
+119.28.162.39:8443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-4
 131.186.16.166:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-3
 211.49.57.134:443#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-1
 146.56.187.1:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-3
@@ -19,15 +19,15 @@
 146.56.142.151:443#🇰🇷韩国KR-AS31898-Oracle Corporation-5
 141.164.42.2:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-4
 158.247.198.196:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-5
-146.56.135.196:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-4
+146.56.135.196:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-5
 158.247.253.111:2087#🇰🇷韩国KR-AS20473-The Constant Company, LLC-6
 64.110.70.64:443#🇰🇷韩国KR-AS31898-Oracle Corporation-6
 64.176.231.220:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-7
 43.131.247.123:8443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-1
 85.155.176.105:8443#🇰🇷韩国KR-AS63473-Prinode AB-1
-101.33.68.172:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-2
+43.133.251.155:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-2
+101.33.68.172:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-3
 140.238.30.217:443#🇰🇷韩国KR-AS31898-Oracle Corporation-7
-43.128.135.99:443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-2
 131.186.26.94:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-4
 20.41.123.20:443#🇰🇷韩国KR-AS8075-Microsoft Corporation-1
 54.180.147.65:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-1
@@ -51,7 +51,7 @@
 15.164.240.218:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-13
 52.79.137.118:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-14
 15.165.200.3:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-15
-43.131.242.223:443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-3
+43.131.242.223:443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-2
 43.203.226.238:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-16
 13.209.99.217:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-17
 54.180.236.101:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-18
@@ -73,7 +73,6 @@
 47.80.57.116:443#🇰🇷韩国KR-AS45102-Alibaba Cloud LLC-1
 16.184.32.159:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-31
 3.38.205.231:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-32
-43.164.137.118:8443#🇰🇷韩国KR-AS132203-16 COLLYER QUAY # 18-29 INCOME AT RAFFLES-1
 168.110.110.132:2053#🇰🇷韩国KR-AS31898-Oracle Corporation-10
 168.110.121.126:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-11
 43.202.100.171:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-33
@@ -91,15 +90,14 @@
 134.185.123.54:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
 3.35.51.138:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-36
 134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
-168.107.32.255:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
 146.56.119.205:443#🇰🇷韩国KR-AS31898-Oracle Corporation , Global software solutions , California , USA-2
-140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
-168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
+168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
 152.67.210.234:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-6
 45.93.30.168:443#🇰🇷韩国KR-AS138195-XNNET LIMITED-1
 203.248.94.49:443#🇰🇷韩国KR-AS138195-Hongkong Wen Jing Network Limited-1
 15.165.9.110:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-37
-129.154.50.72:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
-168.110.107.218:443#🇰🇷韩国KR-AS31898-Oracle Corporation-25
+129.154.50.72:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+168.110.107.218:443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
 43.201.2.23:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-38
 119.205.235.58:443#🇰🇷韩国KR-AS4766-Korea Telecom-1
