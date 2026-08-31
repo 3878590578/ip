@@ -6,6 +6,7 @@
 47.82.155.79:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud LLC-1
 47.236.119.109:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud LLC-2
 161.117.181.127:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud (Singapore) Private Limited-1
+47.79.36.32:443#🇯🇵日本JP-AS45102-Alibaba Cloud LLC-1
 8.222.185.236:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-1
 8.222.193.153:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-2
 8.219.155.125:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-3

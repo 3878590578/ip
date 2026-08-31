@@ -102,4 +102,5 @@
 134.185.123.54:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
 152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
 152.67.210.234:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-7
+192.46.231.158:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-10
 43.201.2.23:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-38

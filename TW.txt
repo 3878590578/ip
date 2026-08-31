@@ -12,14 +12,12 @@
 85.237.206.231:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-6
 85.237.207.72:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
 140.235.38.47:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
-142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
 151.242.189.137:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
 151.242.188.152:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
-83.147.13.49:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
-82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
+82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
 114.32.9.249:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-1
-83.147.15.253:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
-85.237.207.126:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
+83.147.15.253:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
+85.237.207.126:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
 2.27.174.68:443#🇨🇳台湾TW-AS32167-ACCK LLC-1
 136.0.54.169:443#🇨🇳台湾TW-AS32167-ACCK LLC-2
-141.11.87.48:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-14
+141.11.87.48:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
