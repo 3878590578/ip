@@ -1,7 +1,6 @@
-38.244.50.212:443#🇺🇸美国US-AS174-NetLab-1
-38.97.249.166:8443#🇺🇸美国US-AS174-NetLab-2
-38.244.31.27:443#🇺🇸美国US-AS174-NetLab-3
 154.41.80.59:443#🇺🇸美国US-AS174-Cogent Communications, LLC-1
-154.41.80.153:443#🇺🇸美国US-AS174-Cogent Communications, LLC-2
+38.58.108.15:443#🇺🇸美国US-AS174-Cogent Communications, LLC-2
+38.244.50.212:443#🇺🇸美国US-AS174-NetLab-1
 149.7.2.79:443#🇺🇸美国US-AS174-Cogent Communications, LLC-3
-38.58.108.15:443#🇺🇸美国US-AS174-Cogent Communications, LLC-4
+154.41.80.153:443#🇺🇸美国US-AS174-Cogent Communications, LLC-4
+38.244.45.74:443#🇺🇸美国US-AS174-NetLab-2
