@@ -1,16 +1,17 @@
-47.239.4.246:443#🇭🇰香港HK-AS45102-ALIBABA CLOUD - HK-1
 47.76.171.37:8443#🇭🇰香港HK-AS45102-Alibaba Cloud (Singapore) Private Limited-1
+47.239.4.246:443#🇭🇰香港HK-AS45102-ALIBABA CLOUD - HK-1
 8.218.22.14:443#🇭🇰香港HK-AS45102-Alibaba Cloud (Singapore) Private Limited-2
-8.210.29.68:443#🇭🇰香港HK-AS45102-Aliyun Computing Co.LTD-1
 47.79.78.40:443#🇭🇰香港HK-AS45102-Alibaba Cloud LLC-1
-47.84.115.34:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud LLC-1
-47.82.155.79:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud LLC-2
-8.222.193.153:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-1
-8.219.155.125:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-2
-8.219.195.31:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-3
-8.222.185.236:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-4
+8.210.29.68:443#🇭🇰香港HK-AS45102-Aliyun Computing Co.LTD-1
+161.117.181.127:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud (Singapore) Private Limited-1
+47.82.155.79:443#🇸🇬新加坡SG-AS45102-Alibaba Cloud LLC-1
+8.219.155.125:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-1
+8.222.185.236:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-2
+8.222.193.153:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-3
+8.219.195.31:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-4
 47.80.57.116:443#🇰🇷韩国KR-AS45102-Alibaba Cloud LLC-1
+47.251.95.178:443#🇺🇸美国US-AS45102-Alibaba Cloud - US-1
+47.254.57.63:443#🇺🇸美国US-AS45102-Alibaba Cloud - US-2
 47.88.34.80:443#🇺🇸美国US-AS45102-Alibaba Cloud (Singapore) Private Limited-1
 47.77.210.148:443#🇺🇸美国US-AS45102-Alibaba Cloud LLC-1
-47.251.95.178:443#🇺🇸美国US-AS45102-Alibaba Cloud - US-1
 8.221.126.227:443#🇺🇸美国US-AS45102-Aliyun Computing Co.LTD-1

@@ -1,22 +1,30 @@
 154.3.35.193:2053#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-1
-154.3.32.164:8443#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-2
-106.55.59.31:2053#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-3
-154.31.114.162:8443#🇯🇵日本JP-AS906-DMIT Cloud Service - Tokyo-1
-64.186.249.169:2053#🇺🇸美国US-AS906-DMIT Cloud Services-1
-154.17.233.72:8443#🇺🇸美国US-AS906-DMIT Cloud Services-2
-154.21.88.234:8443#🇺🇸美国US-AS906-DMIT Cloud Services-3
-174.136.204.136:8443#🇺🇸美国US-AS906-DMIT Cloud Services-4
-154.17.16.219:8443#🇺🇸美国US-AS906-DMIT Cloud Services-5
-154.21.80.55:8443#🇺🇸美国US-AS906-DMIT Cloud Services-6
-179.255.105.12:443#🇺🇸美国US-AS906-DMIT Cloud Services-7
-154.17.19.20:8443#🇺🇸美国US-AS906-DMIT Cloud Services-8
-179.255.121.0:443#🇺🇸美国US-AS906-DMIT Cloud Services-9
-64.186.254.109:8443#🇺🇸美国US-AS906-DMIT Cloud Services-10
-154.21.93.187:8443#🇺🇸美国US-AS906-DMIT Cloud Services-11
-179.255.96.130:443#🇺🇸美国US-AS906-DMIT Cloud Services-12
-64.186.240.9:8443#🇺🇸美国US-AS906-DMIT Cloud Services-13
-174.136.205.28:443#🇺🇸美国US-AS906-DMIT Cloud Services-14
-154.21.91.100:443#🇺🇸美国US-AS906-DMIT Cloud Services-15
-179.255.120.161:443#🇺🇸美国US-AS906-DMIT Cloud Services-16
-64.186.247.122:8443#🇺🇸美国US-AS906-DMIT Cloud Services-17
-136.175.179.113:8443#🇺🇸美国US-AS906-DMIT Cloud Services-18
+191.223.208.55:443#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-2
+154.3.32.164:8443#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-3
+106.55.59.31:2053#🇭🇰香港HK-AS906-DMIT Cloud Service - Los Angeles-4
+191.222.223.84:443#🇯🇵日本JP-AS906-DMIT Cloud Service - Tokyo-1
+154.31.114.162:8443#🇯🇵日本JP-AS906-DMIT Cloud Service - Tokyo-2
+179.253.225.21:443#🇺🇸美国US-AS906-DMIT Cloud Services-1
+64.186.247.122:8443#🇺🇸美国US-AS906-DMIT Cloud Services-2
+179.255.96.130:443#🇺🇸美国US-AS906-DMIT Cloud Services-3
+64.186.240.9:8443#🇺🇸美国US-AS906-DMIT Cloud Services-4
+174.136.204.136:8443#🇺🇸美国US-AS906-DMIT Cloud Services-5
+154.21.93.187:8443#🇺🇸美国US-AS906-DMIT Cloud Services-6
+174.136.205.28:443#🇺🇸美国US-AS906-DMIT Cloud Services-7
+179.255.112.97:443#🇺🇸美国US-AS906-DMIT Cloud Services-8
+64.186.249.169:2053#🇺🇸美国US-AS906-DMIT Cloud Services-9
+64.186.228.225:443#🇺🇸美国US-AS906-DMIT Cloud Services-10
+154.21.91.100:443#🇺🇸美国US-AS906-DMIT Cloud Services-11
+154.21.95.254:443#🇺🇸美国US-AS906-DMIT Cloud Services-12
+154.17.19.20:8443#🇺🇸美国US-AS906-DMIT Cloud Services-13
+179.255.121.0:443#🇺🇸美国US-AS906-DMIT Cloud Services-14
+154.17.233.72:8443#🇺🇸美国US-AS906-DMIT Cloud Services-15
+136.175.179.113:8443#🇺🇸美国US-AS906-DMIT Cloud Services-16
+154.21.88.234:8443#🇺🇸美国US-AS906-DMIT Cloud Services-17
+69.63.222.201:443#🇺🇸美国US-AS906-DMIT Cloud Services-18
+179.255.108.4:443#🇺🇸美国US-AS906-DMIT Cloud Services-19
+154.21.80.55:8443#🇺🇸美国US-AS906-DMIT Cloud Services-20
+64.186.254.109:8443#🇺🇸美国US-AS906-DMIT Cloud Services-21
+179.255.120.161:443#🇺🇸美国US-AS906-DMIT Cloud Services-22
+179.255.112.74:443#🇺🇸美国US-AS906-DMIT Cloud Services-23
+154.17.16.219:8443#🇺🇸美国US-AS906-DMIT Cloud Services-24
