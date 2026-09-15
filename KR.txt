@@ -4,7 +4,6 @@
 146.56.142.151:443#🇰🇷韩国KR-AS31898-Oracle Corporation-3
 146.56.187.1:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-4
 193.122.119.241:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-1
-43.164.134.99:443#🇰🇷韩国KR-AS132203-16 COLLYER QUAY # 18-29 INCOME AT RAFFLES-1
 129.154.197.113:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-1
 141.164.37.50:443#🇰🇷韩国KR-AS20473-KOR_VULTR_CUST-1
 193.123.236.206:443#🇰🇷韩国KR-AS31898-Oracle Corporation-5
@@ -35,7 +34,6 @@
 146.56.167.171:443#🇰🇷韩国KR-AS31898-Oracle Corporation-9
 110.10.178.240:443#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-1
 119.28.162.39:8443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-6
-211.110.208.116:443#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-2
 131.186.26.94:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-4
 158.247.222.168:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-8
 152.70.88.124:443#🇰🇷韩国KR-AS31898-Oracle Corporation-10
@@ -56,21 +54,20 @@
 152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
 158.247.224.240:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-10
 158.247.240.138:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-11
-168.107.14.233:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
-129.154.50.72:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
-168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
-168.107.56.181:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
-134.185.127.173:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+168.107.14.233:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-9
+129.154.50.72:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
+168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
+168.107.56.181:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
+134.185.127.173:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
 43.131.247.123:8443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-2
 144.24.73.232:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-1
-134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
-64.110.79.66:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-25
-168.110.107.218:443#🇰🇷韩国KR-AS31898-Oracle Corporation-26
-152.67.214.155:443#🇰🇷韩国KR-AS31898-Oracle Corporation-27
-140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-28
+134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+64.110.79.66:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
+168.110.107.218:443#🇰🇷韩国KR-AS31898-Oracle Corporation-25
+152.67.214.155:443#🇰🇷韩国KR-AS31898-Oracle Corporation-26
+140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-27
 146.56.119.205:443#🇰🇷韩国KR-AS31898-Oracle Corporation , Global software solutions , California , USA-2
-61.109.188.221:443#🇰🇷韩国KR-AS9848-CJcablenet-1
-168.110.112.196:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-29
-168.107.17.234:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-30
-123.111.169.70:2053#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-3
-152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-31
+168.110.112.196:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-28
+168.107.17.234:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-29
+123.111.169.70:2053#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-2
+152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-30
