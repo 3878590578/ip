@@ -9,7 +9,6 @@
 8.219.155.125:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-3
 8.219.195.31:443#🇯🇵日本JP-AS45102-Alibaba Cloud (Singapore) Private Limited-4
 47.80.57.116:443#🇰🇷韩国KR-AS45102-Alibaba Cloud LLC-1
-43.108.46.150:8443#🇰🇷韩国KR-AS45102-Alibaba Cloud (Singapore) Private Limited-1
 8.221.126.227:443#🇺🇸美国US-AS45102-Aliyun Computing Co.LTD-1
 47.251.95.178:443#🇺🇸美国US-AS45102-Alibaba Cloud - US-1
 47.77.210.148:443#🇺🇸美国US-AS45102-Alibaba Cloud LLC-1
