@@ -12,6 +12,7 @@
 146.56.167.171:443#🇰🇷韩国KR-AS31898-Oracle Corporation-4
 43.131.242.223:443#🇰🇷韩国KR-AS132203-6 COLLYER QUAY-1
 129.154.197.113:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-3
+43.133.251.155:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-1
 64.110.82.71:443#🇰🇷韩国KR-AS31898-Oracle Corporation-5
 141.164.35.4:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-5
 130.162.137.247:443#🇰🇷韩国KR-AS31898-Oracle Corporation-6
@@ -19,13 +20,12 @@
 158.247.222.168:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-6
 140.238.30.217:443#🇰🇷韩国KR-AS31898-Oracle Corporation-7
 140.238.5.86:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-2
-3.35.51.12:443#🇰🇷韩国KR-AS16509-AWS Asia Pacific (Seoul) Region-1
 158.247.240.138:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-7
-43.155.208.254:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-1
 43.155.134.179:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-5
 193.122.115.184:443#🇰🇷韩国KR-AS31898-Oracle Corporation-8
 131.186.26.94:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-3
 152.70.239.74:443#🇰🇷韩国KR-AS31898-Oracle Corporation-9
+101.33.80.58:8443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-2
 146.56.135.196:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-6
 193.122.96.190:443#🇰🇷韩国KR-AS31898-Oracle Corporation-10
 132.145.91.181:8443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-4
@@ -42,11 +42,10 @@
 132.145.91.135:443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
 134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
 134.185.114.16:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
-144.24.68.111:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-1
 54.180.151.15:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-2
 152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
 152.67.208.47:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-6
-144.24.73.232:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-2
+144.24.73.232:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-1
 152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
 140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
 168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
