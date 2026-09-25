@@ -1,0 +1,1584 @@
+http://dyttzy.tv/index.php/vod/search.html?wd=交锋
+
+
+
+   
+
+<html lang="cn" style="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>电影天堂资源_在线秒播_高清首发</title>
+<link rel="shortcut icon" href="/template/default/img/favicon.png" type="image/x-icon">
+<meta name="keywords" content="电影天堂资源-dyttzy.tv-提供在线播放， 在线电影资源网站。">
+<meta name="description" content="电影天堂资源-dyttzy.tv-提供在线播放， 在线电影资源网站。">
+<link href="/template/opv1/assets/css/build/style.css" rel="stylesheet">
+<link href="/static/css/home.css" rel="stylesheet">
+<script type="text/javascript" async="" charset="utf-8" src="https://c.cnzz.com/c.js?web_id=1281466364&amp;t=z"></script>
+<script src="https://s4.cnzz.com/z.js?id=1281466364&amp;async=1"></script>
+<script src="/template/opv1/assets/js/jquery.min.js"></script>
+<script src="/template/opv1/assets/js/flowbite.min.js"></script>
+<script>var maccms={"path":"","mid":"1","aid":"13","url":"dyttzy.tv","wapurl":"dyttzy.tv","mob_status":"0"};</script>
+<script src="/static/js/home.js"></script>
+<style id="AlookElementHide">.MDQxNQ,#appss,.show-app2,bkveng,#ppaxs,[class*="ad_img"],[class*="ad_head"],[class*="ad_foot"],[class*="ad_thread"],[id*="ad_img"],[id*="ad_head"],[id*="ad_foot"],[id*="ad_thread"],.AlookElementHide{display:none !important;height: 0px !important;line-height: 0px !important;}</style></head>
+<body class="antialiased text-black bg-extra-grey" style="">
+<div class="absolute z-20 top-0 inset-x-0 flex justify-center overflow-hidden pointer-events-none">
+<div class="w-[108rem] flex-none flex justify-end">
+<picture>
+<img src="/template/opv1/assets/images/bg-light.png" alt="" class="w-full flex-none max-w-none"></picture></div></div>
+<header class="sticky top-0 z-40 w-full flex-none transition-colors duration-500 lg:z-50 lg:border-b lg:border-slate-900/10 backdrop-blur bg-primary/60">
+<div class="max-w-8xl mx-auto">
+<div class="py-1 border-b border-slate-900/10 lg:px-8 lg:border-0 mx-4 lg:mx-0">
+<div class="relative flex items-center justify-between">
+<div class="mr-3 flex-none overflow-hidden w-auto">
+<span class="font-bold">
+<a href="/">
+<img src="/template/opv1/assets/images/logo_250x68.png" style="width: 250px; height: 68px" alt="电影天堂资源_在线秒播_高清首发"></a></span></div>
+<div class="relative pointer-events-auto">
+<div class="relative hidden xl:block">
+<form class="group relative" method="GET" action="/index.php/vod/search.html" onsubmit="return qrsearch();">
+<svg width="{20}" height="{20}" fill="currentColor" class="absolute left-3 top-1/2 -mt-2.5 text-slate-400 pointer-events-none group-focus-within:text-primary" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"></path></svg>
+<input name="wd" class="bg-green-50/50 focus:ring-2 focus:ring-extra-sage focus:outline-none appearance-none w-80 text-sm leading-6 text-slate-900 placeholder-slate-400 rounded-full py-1 pl-10 ring-1 ring-primary" type="text" aria-label="请在此处输入影片名或演员名称..." placeholder="请在此处输入影片名或演员名称..."></form></div></div>
+<div class="relative hidden xl:flex items-center ml-auto">
+<nav class="text-lg leading-6 font-bold text-slate-700">
+<ul class="flex items-center space-x-8">
+<li>
+<a href="/" class="text-green-900 hover:text-blue-500" title="首页">首页</a></li>
+<li>
+<a href="/index.php/vod/type/id/1.html" title="电影片" id="dropdownHoverButton-1" data-dropdown-toggle="dropdownHover-1" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">电影片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-1" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-1">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/6.html" title="动作片" class="block px-4 py-2 hover:bg-gray-100">动作片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/7.html" title="喜剧片" class="block px-4 py-2 hover:bg-gray-100">喜剧片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/9.html" title="科幻片" class="block px-4 py-2 hover:bg-gray-100">科幻片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/10.html" title="恐怖片" class="block px-4 py-2 hover:bg-gray-100">恐怖片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/8.html" title="爱情片" class="block px-4 py-2 hover:bg-gray-100">爱情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/11.html" title="剧情片" class="block px-4 py-2 hover:bg-gray-100">剧情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/12.html" title="战争片" class="block px-4 py-2 hover:bg-gray-100">战争片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/20.html" title="记录片" class="block px-4 py-2 hover:bg-gray-100">记录片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/37.html" title="动画片" class="block px-4 py-2 hover:bg-gray-100">动画片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/34.html" title="伦理片" class="block px-4 py-2 hover:bg-gray-100">伦理片</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/2.html" title="连续剧" id="dropdownHoverButton-2" data-dropdown-toggle="dropdownHover-2" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">连续剧
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-2" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-2">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/13.html" title="国产剧" class="block px-4 py-2 hover:bg-gray-100">国产剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/16.html" title="欧美剧" class="block px-4 py-2 hover:bg-gray-100">欧美剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/14.html" title="香港剧" class="block px-4 py-2 hover:bg-gray-100">香港剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/15.html" title="韩国剧" class="block px-4 py-2 hover:bg-gray-100">韩国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/21.html" title="台湾剧" class="block px-4 py-2 hover:bg-gray-100">台湾剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/22.html" title="日本剧" class="block px-4 py-2 hover:bg-gray-100">日本剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/23.html" title="海外剧" class="block px-4 py-2 hover:bg-gray-100">海外剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/24.html" title="泰国剧" class="block px-4 py-2 hover:bg-gray-100">泰国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/36.html" title="短剧" class="block px-4 py-2 hover:bg-gray-100">短剧</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/4.html" title="动漫片" id="dropdownHoverButton-4" data-dropdown-toggle="dropdownHover-4" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">动漫片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-4" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-4">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/29.html" title="国产动漫" class="block px-4 py-2 hover:bg-gray-100">国产动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/30.html" title="日韩动漫" class="block px-4 py-2 hover:bg-gray-100">日韩动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/31.html" title="欧美动漫" class="block px-4 py-2 hover:bg-gray-100">欧美动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/32.html" title="港台动漫" class="block px-4 py-2 hover:bg-gray-100">港台动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/33.html" title="海外动漫" class="block px-4 py-2 hover:bg-gray-100">海外动漫</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/3.html" title="综艺片" id="dropdownHoverButton-3" data-dropdown-toggle="dropdownHover-3" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">综艺片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-3" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-3">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/25.html" title="大陆综艺" class="block px-4 py-2 hover:bg-gray-100">大陆综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/26.html" title="港台综艺" class="block px-4 py-2 hover:bg-gray-100">港台综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/27.html" title="日韩综艺" class="block px-4 py-2 hover:bg-gray-100">日韩综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/28.html" title="欧美综艺" class="block px-4 py-2 hover:bg-gray-100">欧美综艺</a></li></ul></div></li>
+<li>
+<a href="http://qiupian.dyttzyw.com/index.php/gbook/index.html" class="text-green-900 hover:text-blue-500">求片</a></li></ul></nav></div>
+<button type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-green-900 rounded-lg xl:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation">
+<span class="sr-only">Open main menu</span>
+<svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"></path></svg></button></div></div></div></header>
+<nav class="container mx-auto mt-4 flex px-5 py-3 text-green-900 border border-gray-200 rounded-lg bg-extra-sage/50" aria-label="Breadcrumb">
+<ol class="inline-flex items-center space-x-1 md:space-x-2 rtl:space-x-reverse">
+<li class="inline-flex items-center">
+<a href="/" class="inline-flex items-center text-sm font-medium text-green-900 hover:text-blue-600">
+<svg class="w-3 h-3 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+<path d="m19.707 9.293-2-2-7-7a1 1 0 0 0-1.414 0l-7 7-2 2a1 1 0 0 0 1.414 1.414L2 10.414V18a2 2 0 0 0 2 2h3a1 1 0 0 0 1-1v-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v4a1 1 0 0 0 1 1h3a2 2 0 0 0 2-2v-7.586l.293.293a1 1 0 0 0 1.414-1.414Z"></path></svg>首页</a></li>
+<li aria-current="page">
+<div class="flex items-center">
+<svg class="rtl:rotate-180 w-3 h-3 mx-1 text-green-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"></path></svg>
+<span class="ms-1 text-sm font-medium text-gray-500 md:ms-2">搜索结果</span></div></li></ol></nav>
+<main class="mt-4 container mx-auto px-2 md:px-0" style="">
+<div class="relative overflow-x-auto shadow-md rounded-lg" style="">
+<table class="w-full text-left rtl:text-right text-gray-500 bg-gradient-to-br from-extra-sage/80 to-extra-grey" style="">
+<thead class="text-base text-green-900 uppercase bg-extra-sage">
+<tr>
+<th scope="col" class="px-2 py-1 md:py-4">影片名称</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">状态</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">年代</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">影片地区</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">影片类别</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">豆瓣评分</th>
+<th scope="col" class="px-2 py-1 md:py-4 hidden md:table-cell">更新时间</th></tr></thead>
+<tbody>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/84119.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20260906-1/2cab440df3da8cf6722d23a92e1a9d4a.webp" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">交锋2026</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis"></div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2026</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">中国大陆</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">国产剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2026-09-22 21:28:49 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/84295.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20260916-1/6c11862385ffd546ebc091852956d12e.webp" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">权力交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">Collision</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2026</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">墨西哥</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">欧美剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2026-09-16 23:42:43 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/81914.html" class="group" style="">
+<div class="flex items-center gap-4" style="">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20260515-1/81438262371ddf9f55cec60de1278ade.webp" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">宿敌交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis"></div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2026</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">欧美剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2026-05-15 01:46:48 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/69148.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20251027-1/4668fd0bc06156281640d26bed00ba5b.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">7.9</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">锣鼓巷</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">无悔交锋</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2010</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">大陆</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">国产剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">7.9</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-10-27 18:37:25 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap" style="">
+<a href="/index.php/vod/detail/id/68965.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20251026-1/e0d0b724b805495b889bb50947872514.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">5.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">圣诞交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">Christmas Crossfire</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2020</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">德国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">喜剧片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">5.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-10-26 14:24:43 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/61175.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250823-1/fce1158d944396859da84b6a98db94d7.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">卧底交锋：大嫂的棋局</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis"></div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2025</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">大陆</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">短剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-08-23 14:27:59 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/58511.html" class="group" style="">
+<div class="flex items-center gap-4" style="">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250802-1/30b4db558da937833d6db24016763bdb.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]" style="">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500" style="">生死交锋2023</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis"></div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD国语</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD国语</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2023</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">大陆</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">动作片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-08-02 17:07:15 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/30245.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250402-1/d3e63602ebe26f80e4ed02cbd8f8245e.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">6.3</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">泪竭</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">Rugal：无泪交锋(港/台) / Rugal / 芦苇</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2020</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">韩国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">韩国剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">6.3</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-04-02 12:44:55 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/26168.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250326-1/7e837fcb1f190b3caab2acc40dfb90f5.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">6.5</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">谍影特工</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">十一月杀手 / 谍网暗战(港) / 特务交锋(台) / 没有间谍</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字|国语</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字|国语</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2014</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">动作片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">6.5</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-03-26 13:17:00 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/22867.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250319-1/5c59b418cec781690b6ce9a0c6e7bf0f.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">路上的交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis"></div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2025</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">大陆</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">短剧</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-03-19 23:18:22 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/18970.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250313-1/8ea2ab662c63a0aeb94dec94fdc3875e.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">9.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">鲁邦三世Episode：0 初次交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">Lupin III: Episode 0 - First Contact</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2002</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">日本</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">动画片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">9.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-03-13 09:57:21 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/14111.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250228-1/24d12bbd432db14eb750cc7e8a59f0bd.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">6.3</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">生死交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">置之死地而后生 / 真假毒贩闯狱门 / Let's kill bobby z / bobby z</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2007</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">动作片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">6.3</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-28 22:33:13 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/11568.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250223-1/c7efb029f459cc16e87e93f3ec762a74.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">6.6</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">火线特攻</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">正义杀戮 / 世纪交锋(台) / 正当杀人 / 火线特工</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2008</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">剧情片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">6.6</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-23 12:31:31 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/5919.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250211-1/b45aa6c930e3aea68ac09b3c78f5b488.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">7.8</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">史密斯夫妇</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">史密斯行动 / 史密夫决战史密妻(港) / 史密斯任务(台) / 史密夫对史密妻 / 史密斯交锋 / 床中谍(豆友译名)</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD国语</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD国语</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2005</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">喜剧片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">7.8</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-11 15:42:54 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/5817.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250211-1/2a35a5bfbbbd1bf1aad7c77f15e828b0.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">9.1</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">猫鼠游戏</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">逍遥法外 / 捉智双雄(港) / 神鬼交锋(台) / 我知道你是谁 / 有种来抓我</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2002</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">剧情片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">9.1</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-11 11:24:55 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/4377.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250208-1/c31d7d56c70644a53f5b6e3265ebbd10.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">4.2</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">骇客交锋</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">黑客特攻(港) / 黑帽骇客(台) / 赛博 / Cyber</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2015</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">美国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">剧情片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">4.2</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-08 10:12:10 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/4365.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250208-1/3855f5698b3a1e991bd019bccc91a9ab.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">7.2</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">鸣梁海战</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">鸣梁 / 海战鸣梁 / 鸣梁：旋风之海 / 鸣梁：怒海交锋(台) / Battle of Myeongryang / The Admiral: Roaring Currents</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">HD中字</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2014</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">韩国</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">剧情片</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">7.2</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-08 09:53:45 </td></tr>
+<tr class="bg-green-50/50 border-b border-extra-sage/50">
+<th scope="row" class="px-2 py-2 font-medium text-gray-900 whitespace-nowrap">
+<a href="/index.php/vod/detail/id/2804.html" class="group">
+<div class="flex items-center gap-4">
+<div class="relative">
+<img class="w-12 h-16 rounded-lg" src="https://img.dytt-tupian.com/upload/vod/20250203-1/78bd5cc52b4ea9fd52ae80a01e17a145.jpg" alt="">
+<div class="block md:hidden absolute w-full rounded-b-lg bottom-0 bg-black/50">
+<div class="w-full flex justify-center items-center text-center gap-0.5 overflow-hidden">
+<svg class="w-3 h-3 text-green-50" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-xs font-bold text-green-50">0.0</p></div></div></div>
+<div class="font-medium max-w-[250px] md:max-w-[500px]">
+<div class="overflow-hidden text-ellipsis group-hover:text-blue-500">交锋联盟之机巧一族</div>
+<div class="text-sm text-gray-500 overflow-hidden text-ellipsis">Fight League : Gear Gadget generators</div>
+<div class="inline-block md:hidden bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</div></div></div></a></th>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<span class="bg-extra-sage text-green-900 text-xs font-medium me-2 px-2.5 py-0.5 rounded">已完结</span></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">2019</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">日本</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">日韩动漫</td>
+<td class="px-2 py-2 hidden md:table-cell text-sm">
+<div class="flex items-center gap-0.5">
+<svg class="w-4 h-4 text-primary" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
+<path d="M20.924 7.625a1.523 1.523 0 0 0-1.238-1.044l-5.051-.734-2.259-4.577a1.534 1.534 0 0 0-2.752 0L7.365 5.847l-5.051.734A1.535 1.535 0 0 0 1.463 9.2l3.656 3.563-.863 5.031a1.532 1.532 0 0 0 2.226 1.616L11 17.033l4.518 2.375a1.534 1.534 0 0 0 2.226-1.617l-.863-5.03L20.537 9.2a1.523 1.523 0 0 0 .387-1.575Z"></path></svg>
+<p class="text-sm font-bold text-green-900">0.0</p></div></td>
+<td class="px-2 py-2 hidden md:table-cell text-sm"> 2025-02-03 16:28:59 </td></tr></tbody></table>
+<nav aria-label="Page navigation" class="w-full flex flex-col md:flex-row justify-between items-center px-2 py-2 bg-extra-sage">
+<div class="text-green-900">共18条数据,当前1/1页</div>
+<ul class="inline-flex -space-x-px text-base py-2">
+<li>
+<a href="/index.php/vod/search/page/1/wd/%E4%BA%A4%E9%94%8B.html" class="flex items-center justify-center px-4 h-10 ms-0 leading-tight text-green-900 bg-green-50/50 border border-e-0 border-primary rounded-s-lg hover:bg-primary hover:text-gray-700">首页</a></li>
+<li>
+<a href="/index.php/vod/search/page/1/wd/%E4%BA%A4%E9%94%8B.html" class="flex items-center justify-center px-4 h-10 leading-tight text-green-900 bg-green-50/50 border border-primary hover:bg-primary hover:text-gray-700">上一页</a></li>
+<li>
+<span class="flex items-center justify-center px-4 h-10 leading-tight text-green-900 bg-primary">1</span></li>
+<li>
+<a href="/index.php/vod/search/page/1/wd/%E4%BA%A4%E9%94%8B.html" class="flex items-center justify-center px-4 h-10 leading-tight text-green-900 bg-green-50/50 border border-primary hover:bg-primary hover:text-gray-700">下一页</a></li>
+<li>
+<a href="/index.php/vod/search/page/1/wd/%E4%BA%A4%E9%94%8B.html" class="flex items-center justify-center px-4 h-10 leading-tight text-green-900 bg-green-50/50 border border-primary rounded-e-lg hover:bg-primary hover:text-gray-700">尾页</a></li></ul></nav></div></main>
+<footer class="container mx-auto bg-extra-sage rounded-lg shadow m-4">
+<div class="w-full p-4 flex flex-col md:flex-row items-center justify-between">
+<span class="text-sm text-green-900 sm:text-center">© 2025 
+<a href="#" class="hover:underline">DYTT™</a>. All Rights Reserved. </span>
+<ul class="flex flex-wrap items-center mt-3 text-sm font-medium text-green-900 sm:mt-0">
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">About</a></li>
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">Privacy Policy</a></li>
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">Licensing</a></li>
+<li>
+<a href="#" class="hover:underline">Contact</a></li></ul></div></footer>
+<script>var _czc = _czc || [];(function () { var um = document.createElement("script"); um.src ="https://s4.cnzz.com/z.js?id=1281466364&async=1"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(um, s);})();</script>
+<div id="drawer-navigation" class="fixed top-0 left-0 z-40 h-screen p-4 overflow-y-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-extra-grey transition-transform -translate-x-full bg-gradient-to-r from-primary to-extra-sage/80 w-64" tabindex="-1" aria-labelledby="drawer-navigation-label" aria-hidden="true">
+<button type="button" data-drawer-hide="drawer-navigation" aria-controls="drawer-navigation" class="text-green-900 bg-transparent hover:bg-gray-200 hover:text-red-500 rounded-lg text-sm w-8 h-8 absolute top-2.5 end-2.5 inline-flex items-center justify-center">
+<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"></path></svg>
+<span class="sr-only">Close menu</span></button>
+<div class="py-4 mt-4 space-y-2 overflow-y-auto">
+<form class="group relative" method="GET" action="/index.php/vod/search.html" onsubmit="return qrsearch();">
+<svg width="{20}" height="{20}" fill="currentColor" class="absolute left-3 top-1/2 -mt-2.5 text-slate-400 pointer-events-none group-focus-within:text-primary" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"></path></svg>
+<input name="wd" class="bg-green-50/50 focus:ring-2 focus:ring-extra-sage focus:outline-none appearance-none w-full text-sm leading-6 text-slate-900 placeholder-slate-400 rounded-full py-1 pl-10 ring-1 ring-primary" type="text" aria-label="请在此处输入影片名或演员名称..." placeholder="请在此处输入影片名或演员名称..."></form>
+<ul class="space-y-2 font-medium text-center">
+<li class="text-center mb-2">
+<a href="/" class="text-green-900 hover:text-blue-500 p-2 rounded-lg hover:bg-gray-100 group" title="首页">首页</a></li>
+<li>
+<a href="/index.php/vod/type/id/1.html" title="电影片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">电影片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/6.html" title="动作片" class="block px-4 py-2 hover:bg-gray-100">动作片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/7.html" title="喜剧片" class="block px-4 py-2 hover:bg-gray-100">喜剧片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/9.html" title="科幻片" class="block px-4 py-2 hover:bg-gray-100">科幻片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/10.html" title="恐怖片" class="block px-4 py-2 hover:bg-gray-100">恐怖片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/8.html" title="爱情片" class="block px-4 py-2 hover:bg-gray-100">爱情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/11.html" title="剧情片" class="block px-4 py-2 hover:bg-gray-100">剧情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/12.html" title="战争片" class="block px-4 py-2 hover:bg-gray-100">战争片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/20.html" title="记录片" class="block px-4 py-2 hover:bg-gray-100">记录片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/37.html" title="动画片" class="block px-4 py-2 hover:bg-gray-100">动画片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/34.html" title="伦理片" class="block px-4 py-2 hover:bg-gray-100">伦理片</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/2.html" title="连续剧" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">连续剧
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/13.html" title="国产剧" class="block px-4 py-2 hover:bg-gray-100">国产剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/16.html" title="欧美剧" class="block px-4 py-2 hover:bg-gray-100">欧美剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/14.html" title="香港剧" class="block px-4 py-2 hover:bg-gray-100">香港剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/15.html" title="韩国剧" class="block px-4 py-2 hover:bg-gray-100">韩国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/21.html" title="台湾剧" class="block px-4 py-2 hover:bg-gray-100">台湾剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/22.html" title="日本剧" class="block px-4 py-2 hover:bg-gray-100">日本剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/23.html" title="海外剧" class="block px-4 py-2 hover:bg-gray-100">海外剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/24.html" title="泰国剧" class="block px-4 py-2 hover:bg-gray-100">泰国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/36.html" title="短剧" class="block px-4 py-2 hover:bg-gray-100">短剧</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/4.html" title="动漫片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">动漫片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/29.html" title="国产动漫" class="block px-4 py-2 hover:bg-gray-100">国产动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/30.html" title="日韩动漫" class="block px-4 py-2 hover:bg-gray-100">日韩动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/31.html" title="欧美动漫" class="block px-4 py-2 hover:bg-gray-100">欧美动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/32.html" title="港台动漫" class="block px-4 py-2 hover:bg-gray-100">港台动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/33.html" title="海外动漫" class="block px-4 py-2 hover:bg-gray-100">海外动漫</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/3.html" title="综艺片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">综艺片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/25.html" title="大陆综艺" class="block px-4 py-2 hover:bg-gray-100">大陆综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/26.html" title="港台综艺" class="block px-4 py-2 hover:bg-gray-100">港台综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/27.html" title="日韩综艺" class="block px-4 py-2 hover:bg-gray-100">日韩综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/28.html" title="欧美综艺" class="block px-4 py-2 hover:bg-gray-100">欧美综艺</a></li></ul></div></li>
+<li class="text-center mb-2">
+<a href="/index.php/gbook/index.html" class="text-green-900 hover:text-blue-500 p-2 rounded-lg hover:bg-gray-100 group" title="求片">求片</a></li></ul></div></div>
+<div style="position: fixed; right: 20px; bottom: 80px; background: rgb(255, 87, 34); color: rgb(255, 255, 255); padding: 12px 16px; border-radius: 30px; cursor: pointer; font-size: 15px; z-index: 999999; box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 10px;">提取M3U8</div></body>
+<style id="A_T_S">*{-webkit-user-select:auto !important;}</style></html>
+
+
+
+
+
+
+http://dyttzy.tv/index.php/vod/detail/id/84119.html
+
+
+
+
+
+<html lang="cn" style="">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>电影天堂资源_在线秒播_高清首发</title>
+<link rel="shortcut icon" href="/template/default/img/favicon.png" type="image/x-icon">
+<meta name="keywords" content="电影天堂资源-dyttzy.tv-提供在线播放， 在线电影资源网站。">
+<meta name="description" content="电影天堂资源-dyttzy.tv-提供在线播放， 在线电影资源网站。">
+<link href="/template/opv1/assets/css/build/style.css" rel="stylesheet">
+<link href="/static/css/home.css" rel="stylesheet">
+<script type="text/javascript" async="" charset="utf-8" src="https://c.cnzz.com/c.js?web_id=1281466364&amp;t=z"></script>
+<script src="https://s4.cnzz.com/z.js?id=1281466364&amp;async=1"></script>
+<script src="/template/opv1/assets/js/jquery.min.js"></script>
+<script src="/template/opv1/assets/js/flowbite.min.js"></script>
+<script>var maccms={"path":"","mid":"1","aid":"14","url":"dyttzy.tv","wapurl":"dyttzy.tv","mob_status":"0"};</script>
+<script src="/static/js/home.js"></script>
+<style id="AlookElementHide">.MDQxNQ,#appss,.show-app2,bkveng,#ppaxs,[class*="ad_img"],[class*="ad_head"],[class*="ad_foot"],[class*="ad_thread"],[id*="ad_img"],[id*="ad_head"],[id*="ad_foot"],[id*="ad_thread"],.AlookElementHide{display:none !important;height: 0px !important;line-height: 0px !important;}</style></head>
+<body class="antialiased text-black bg-extra-grey" style="">
+<div class="absolute z-20 top-0 inset-x-0 flex justify-center overflow-hidden pointer-events-none">
+<div class="w-[108rem] flex-none flex justify-end">
+<picture>
+<img src="/template/opv1/assets/images/bg-light.png" alt="" class="w-full flex-none max-w-none"></picture></div></div>
+<header class="sticky top-0 z-40 w-full flex-none transition-colors duration-500 lg:z-50 lg:border-b lg:border-slate-900/10 backdrop-blur bg-primary/60">
+<div class="max-w-8xl mx-auto">
+<div class="py-1 border-b border-slate-900/10 lg:px-8 lg:border-0 mx-4 lg:mx-0">
+<div class="relative flex items-center justify-between">
+<div class="mr-3 flex-none overflow-hidden w-auto">
+<span class="font-bold">
+<a href="/">
+<img src="/template/opv1/assets/images/logo_250x68.png" style="width: 250px; height: 68px" alt="电影天堂资源_在线秒播_高清首发"></a></span></div>
+<div class="relative pointer-events-auto">
+<div class="relative hidden xl:block">
+<form class="group relative" method="GET" action="/index.php/vod/search.html" onsubmit="return qrsearch();">
+<svg width="{20}" height="{20}" fill="currentColor" class="absolute left-3 top-1/2 -mt-2.5 text-slate-400 pointer-events-none group-focus-within:text-primary" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"></path></svg>
+<input name="wd" class="bg-green-50/50 focus:ring-2 focus:ring-extra-sage focus:outline-none appearance-none w-80 text-sm leading-6 text-slate-900 placeholder-slate-400 rounded-full py-1 pl-10 ring-1 ring-primary" type="text" aria-label="请在此处输入影片名或演员名称..." placeholder="请在此处输入影片名或演员名称..."></form></div></div>
+<div class="relative hidden xl:flex items-center ml-auto">
+<nav class="text-lg leading-6 font-bold text-slate-700">
+<ul class="flex items-center space-x-8">
+<li>
+<a href="/" class="text-green-900 hover:text-blue-500" title="首页">首页</a></li>
+<li>
+<a href="/index.php/vod/type/id/1.html" title="电影片" id="dropdownHoverButton-1" data-dropdown-toggle="dropdownHover-1" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">电影片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-1" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-1">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/6.html" title="动作片" class="block px-4 py-2 hover:bg-gray-100">动作片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/7.html" title="喜剧片" class="block px-4 py-2 hover:bg-gray-100">喜剧片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/9.html" title="科幻片" class="block px-4 py-2 hover:bg-gray-100">科幻片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/10.html" title="恐怖片" class="block px-4 py-2 hover:bg-gray-100">恐怖片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/8.html" title="爱情片" class="block px-4 py-2 hover:bg-gray-100">爱情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/11.html" title="剧情片" class="block px-4 py-2 hover:bg-gray-100">剧情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/12.html" title="战争片" class="block px-4 py-2 hover:bg-gray-100">战争片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/20.html" title="记录片" class="block px-4 py-2 hover:bg-gray-100">记录片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/37.html" title="动画片" class="block px-4 py-2 hover:bg-gray-100">动画片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/34.html" title="伦理片" class="block px-4 py-2 hover:bg-gray-100">伦理片</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/2.html" title="连续剧" id="dropdownHoverButton-2" data-dropdown-toggle="dropdownHover-2" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">连续剧
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-2" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-2">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/13.html" title="国产剧" class="block px-4 py-2 hover:bg-gray-100">国产剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/16.html" title="欧美剧" class="block px-4 py-2 hover:bg-gray-100">欧美剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/14.html" title="香港剧" class="block px-4 py-2 hover:bg-gray-100">香港剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/15.html" title="韩国剧" class="block px-4 py-2 hover:bg-gray-100">韩国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/21.html" title="台湾剧" class="block px-4 py-2 hover:bg-gray-100">台湾剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/22.html" title="日本剧" class="block px-4 py-2 hover:bg-gray-100">日本剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/23.html" title="海外剧" class="block px-4 py-2 hover:bg-gray-100">海外剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/24.html" title="泰国剧" class="block px-4 py-2 hover:bg-gray-100">泰国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/36.html" title="短剧" class="block px-4 py-2 hover:bg-gray-100">短剧</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/4.html" title="动漫片" id="dropdownHoverButton-4" data-dropdown-toggle="dropdownHover-4" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">动漫片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-4" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-4">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/29.html" title="国产动漫" class="block px-4 py-2 hover:bg-gray-100">国产动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/30.html" title="日韩动漫" class="block px-4 py-2 hover:bg-gray-100">日韩动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/31.html" title="欧美动漫" class="block px-4 py-2 hover:bg-gray-100">欧美动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/32.html" title="港台动漫" class="block px-4 py-2 hover:bg-gray-100">港台动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/33.html" title="海外动漫" class="block px-4 py-2 hover:bg-gray-100">海外动漫</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/3.html" title="综艺片" id="dropdownHoverButton-3" data-dropdown-toggle="dropdownHover-3" data-dropdown-trigger="hover" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">综艺片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div id="dropdownHover-3" class="z-10 hidden bg-white divide-y divide-gray-100 rounded-lg shadow w-auto" data-popper-reference-hidden="" data-popper-escaped="" data-popper-placement="bottom" style="position: absolute; inset: 0px auto auto 0px; margin: 0px; transform: translate3d(0px, 10px, 0px);">
+<ul class="grid grid-cols-3 py-2 text-base text-gray-700" aria-labelledby="dropdownHoverButton-3">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/25.html" title="大陆综艺" class="block px-4 py-2 hover:bg-gray-100">大陆综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/26.html" title="港台综艺" class="block px-4 py-2 hover:bg-gray-100">港台综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/27.html" title="日韩综艺" class="block px-4 py-2 hover:bg-gray-100">日韩综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/28.html" title="欧美综艺" class="block px-4 py-2 hover:bg-gray-100">欧美综艺</a></li></ul></div></li>
+<li>
+<a href="http://qiupian.dyttzyw.com/index.php/gbook/index.html" class="text-green-900 hover:text-blue-500">求片</a></li></ul></nav></div>
+<button type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-green-900 rounded-lg xl:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200" data-drawer-target="drawer-navigation" data-drawer-show="drawer-navigation" aria-controls="drawer-navigation">
+<span class="sr-only">Open main menu</span>
+<svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15"></path></svg></button></div></div></div></header>
+<nav class="container mx-auto mt-4 flex px-5 py-3 text-green-900 border border-gray-200 rounded-lg bg-extra-sage/50" aria-label="Breadcrumb">
+<ol class="inline-flex items-center space-x-1 md:space-x-2 rtl:space-x-reverse">
+<li class="inline-flex items-center">
+<a href="/" class="inline-flex items-center text-sm font-medium text-green-900 hover:text-blue-600">
+<svg class="w-3 h-3 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+<path d="m19.707 9.293-2-2-7-7a1 1 0 0 0-1.414 0l-7 7-2 2a1 1 0 0 0 1.414 1.414L2 10.414V18a2 2 0 0 0 2 2h3a1 1 0 0 0 1-1v-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v4a1 1 0 0 0 1 1h3a2 2 0 0 0 2-2v-7.586l.293.293a1 1 0 0 0 1.414-1.414Z"></path></svg>首页</a></li>
+<li>
+<div class="flex items-center">
+<svg class="rtl:rotate-180 block w-3 h-3 mx-1 text-green-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"></path></svg>
+<a href="/index.php/vod/type/id/13.html" class="ms-1 text-sm font-medium text-green-900 hover:text-blue-600 md:ms-2">国产剧</a></div></li>
+<li aria-current="page">
+<div class="flex items-center">
+<svg class="rtl:rotate-180 w-3 h-3 mx-1 text-green-800" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4"></path></svg>
+<span class="ms-1 text-sm font-medium text-gray-500 md:ms-2">交锋2026</span></div></li></ol></nav>
+<main class="container mx-auto mt-2 px-2 md:px-8 py-2 w-full" style="">
+<div class="flex flex-col" style="">
+<div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8 space-y-2" style="">
+<div class="bg-extra-sage p-2 rounded-lg grid grid-cols-12 gap-2" style="">
+<div class="relative w-full h-full col-span-12 md:col-span-2" style="">
+<img class="w-full h-full rounded-lg shadow-md" src="https://img.dytt-tupian.com/upload/vod/20260906-1/2cab440df3da8cf6722d23a92e1a9d4a.webp" style=""></div>
+<div class="w-full h-full col-span-12 md:col-span-6 bg-green-50/50 rounded-lg p-2" style="">
+<div class="text-center rounded-md">
+<h1 class="uppercase text-lg font-bold text-green-900">交锋2026</h1>
+<h2 class="italic text-orange-500"></h2></div>
+<div class="overflow-hidden lg:overflow-auto scrollbar:!w-1.5 scrollbar:!h-1.5 scrollbar:bg-transparent scrollbar-track:!bg-slate-100 scrollbar-thumb:!rounded scrollbar-thumb:!bg-slate-300 scrollbar-track:!rounded" style="">
+<table class="w-full text-left border-collapse" style="">
+<thead>
+<tr>
+<th class="w-1/4">
+<div class="sr-only">Class</div></th>
+<th class="w-3/4">
+<div class="sr-only">Properties</div></th></tr></thead>
+<tbody class="align-baseline">
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">豆瓣</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal"> 0.0 分 </td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">状态</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">已完结</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">类型</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">国产剧,
+<a href="/index.php/vod/search/class/%E5%89%A7%E6%83%85.html" target="_blank">剧情</a>&nbsp;</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">导演</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">姚晓峰</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">演员</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">王凯,周依然,欧豪,彭昱畅,成泰燊,齐欢,邱天,吴启华,吴越,岳旸,高鑫,高捷,祖峰,董勇</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">年代</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal" style="">2026</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">地区</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">中国大陆</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">语言</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">汉语普通话</td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">TAG标签</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal"></td></tr>
+<tr class="border-t border-extra-sage/50">
+<td translate="no" class="py-1 pr-2 leading-5 whitespace-nowrap text-green-900">更新时间</td>
+<td translate="no" class="py-1 pl-2 leading-5 whitespace-normal">2026-09-22</td></tr></tbody></table></div></div>
+<div class="w-full h-full col-span-12 md:col-span-4 bg-green-50/50 rounded-lg p-2" style="">
+<div class="text-center font-bold text-blue-500">
+<img class="inline-flex" src="/template/default/img/favicon.png" style=" margin-right: 4px; width: 20px; height: 20px;">交锋2026的剧情介绍</div>
+<div class="max-h-[290px] overflow-y-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-extra-grey" style="">
+<p style="">故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……</p></div></div></div>
+<div class="bg-extra-sage p-2 rounded-lg">
+<div class="bg-green-50/50">
+<div class="text-center text-blue-500 font-bold">
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="50" height="50" class="inline me-1" viewBox="0 0 120 120">
+<circle cx="60" cy="64" r="14" opacity=".35"></circle>
+<circle cx="60" cy="60" r="14" fill="#0075ff"></circle>
+<g opacity=".35">
+<path d="M15,64c0-14.48,6.882-27.377,17.539-35.613L24.3,22.212C12.5,32.307,5,47.29,5,64s7.5,31.693,19.3,41.788l8.239-6.175 C21.882,91.377,15,78.481,15,64z"></path>
+<path d="M105,64c0,14.47-6.872,27.358-17.516,35.595l8.232,6.179C107.507,95.679,115,80.702,115,64s-7.493-31.679-19.284-41.774 l-8.233,6.179C98.128,36.643,105,49.53,105,64z"></path>
+<path d="M85,64c0,10.09-6.012,18.797-14.639,22.743l8.742,6.562C88.665,87.05,95,76.254,95,64s-6.335-23.05-15.897-29.305 l-8.742,6.562C78.988,45.203,85,53.91,85,64z"></path>
+<path d="M35,64c0-10.108,6.033-18.828,14.685-22.764l-8.755-6.562C31.35,40.926,25,51.732,25,64s6.35,23.074,15.93,29.325 l8.755-6.562C41.033,82.828,35,74.108,35,64z"></path></g>
+<path fill="#a4e2f1" d="M15,60c0-14.48,6.882-27.377,17.539-35.613L24.3,18.212C12.5,28.307,5,43.29,5,60 s7.5,31.693,19.3,41.788l8.239-6.175C21.882,87.377,15,74.481,15,60z"></path>
+<path fill="#a4e2f1" d="M105,60c0,14.47-6.872,27.358-17.516,35.595l8.232,6.179C107.507,91.679,115,76.702,115,60 s-7.493-31.679-19.284-41.774l-8.233,6.179C98.128,32.643,105,45.53,105,60z"></path>
+<path fill="#52afff" d="M85,60c0,10.09-6.012,18.797-14.639,22.743l8.742,6.562C88.665,83.05,95,72.254,95,60 s-6.335-23.05-15.897-29.305l-8.742,6.562C78.988,41.203,85,49.91,85,60z"></path>
+<path fill="#52afff" d="M35,60c0-10.108,6.033-18.828,14.685-22.764l-8.755-6.562C31.35,36.926,25,47.732,25,60 s6.35,23.074,15.93,29.325l8.755-6.562C41.033,78.828,35,70.108,35,60z"></path></svg>交锋2026的在线播放</div>
+<div class="p-2 grid grid-cols-2 gap-2">
+<div class="col-span-2 md:col-span-1 bg-green-50/50 rounded-lg p-2">
+<h4>
+<div>dytt地址</div></h4>
+<hr>
+<ul class="playlist wbox dytt">
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第01集$https://vip.dytt-tvs.com/share/67e91755751b124a5e752c5fdcaa3a48" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第01集" href="https://vip.dytt-tvs.com/share/67e91755751b124a5e752c5fdcaa3a48" target="_blank" style="color: #1c86ee">第01集$https://vip.dytt-tvs.com/share/67e91755751b124a5e752c5fdcaa3a48</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第01集】不能观看请检查修复，页面地址：第01集$https://vip.dytt-tvs.com/share/67e91755751b124a5e752c5fdcaa3a48')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第02集$https://vip.dytt-tvs.com/share/8697b0e913b66de79d5edfb73cdf07ca" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第02集" href="https://vip.dytt-tvs.com/share/8697b0e913b66de79d5edfb73cdf07ca" target="_blank" style="color: #1c86ee">第02集$https://vip.dytt-tvs.com/share/8697b0e913b66de79d5edfb73cdf07ca</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第02集】不能观看请检查修复，页面地址：第02集$https://vip.dytt-tvs.com/share/8697b0e913b66de79d5edfb73cdf07ca')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第03集$https://vip.dytt-tvs.com/share/297599ea587669a83f7d30846c397b72" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第03集" href="https://vip.dytt-tvs.com/share/297599ea587669a83f7d30846c397b72" target="_blank" style="color: #1c86ee">第03集$https://vip.dytt-tvs.com/share/297599ea587669a83f7d30846c397b72</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第03集】不能观看请检查修复，页面地址：第03集$https://vip.dytt-tvs.com/share/297599ea587669a83f7d30846c397b72')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第04集$https://vip.dytt-tvs.com/share/82b05ac4ebef496529bb27f3c6786782" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第04集" href="https://vip.dytt-tvs.com/share/82b05ac4ebef496529bb27f3c6786782" target="_blank" style="color: #1c86ee">第04集$https://vip.dytt-tvs.com/share/82b05ac4ebef496529bb27f3c6786782</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第04集】不能观看请检查修复，页面地址：第04集$https://vip.dytt-tvs.com/share/82b05ac4ebef496529bb27f3c6786782')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第05集$https://vip.dytt-tvs.com/share/8ad87141193af4b23555a38072fa9176" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第05集" href="https://vip.dytt-tvs.com/share/8ad87141193af4b23555a38072fa9176" target="_blank" style="color: #1c86ee">第05集$https://vip.dytt-tvs.com/share/8ad87141193af4b23555a38072fa9176</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第05集】不能观看请检查修复，页面地址：第05集$https://vip.dytt-tvs.com/share/8ad87141193af4b23555a38072fa9176')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第06集$https://vip.dytt-tvs.com/share/61c0f06df36ab44adf84a7fdad5f6b9e" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第06集" href="https://vip.dytt-tvs.com/share/61c0f06df36ab44adf84a7fdad5f6b9e" target="_blank" style="color: #1c86ee">第06集$https://vip.dytt-tvs.com/share/61c0f06df36ab44adf84a7fdad5f6b9e</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第06集】不能观看请检查修复，页面地址：第06集$https://vip.dytt-tvs.com/share/61c0f06df36ab44adf84a7fdad5f6b9e')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第07集$https://vip.dytt-tvs.com/share/3d29fb5278af9da98e9e7c9d3c97b9e2" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第07集" href="https://vip.dytt-tvs.com/share/3d29fb5278af9da98e9e7c9d3c97b9e2" target="_blank" style="color: #1c86ee">第07集$https://vip.dytt-tvs.com/share/3d29fb5278af9da98e9e7c9d3c97b9e2</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第07集】不能观看请检查修复，页面地址：第07集$https://vip.dytt-tvs.com/share/3d29fb5278af9da98e9e7c9d3c97b9e2')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第08集$https://vip.dytt-tvs.com/share/a0c885732bf3788b2dbe03a625cd9114" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第08集" href="https://vip.dytt-tvs.com/share/a0c885732bf3788b2dbe03a625cd9114" target="_blank" style="color: #1c86ee">第08集$https://vip.dytt-tvs.com/share/a0c885732bf3788b2dbe03a625cd9114</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第08集】不能观看请检查修复，页面地址：第08集$https://vip.dytt-tvs.com/share/a0c885732bf3788b2dbe03a625cd9114')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第09集$https://vip.dytt-tvs.com/share/f5c317aa2c2a1fd626033cc086a2471a" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第09集" href="https://vip.dytt-tvs.com/share/f5c317aa2c2a1fd626033cc086a2471a" target="_blank" style="color: #1c86ee">第09集$https://vip.dytt-tvs.com/share/f5c317aa2c2a1fd626033cc086a2471a</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第09集】不能观看请检查修复，页面地址：第09集$https://vip.dytt-tvs.com/share/f5c317aa2c2a1fd626033cc086a2471a')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第10集$https://vip.dytt-tvs.com/share/cd3b1a524a7c489164eb52735036e4c4" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第10集" href="https://vip.dytt-tvs.com/share/cd3b1a524a7c489164eb52735036e4c4" target="_blank" style="color: #1c86ee">第10集$https://vip.dytt-tvs.com/share/cd3b1a524a7c489164eb52735036e4c4</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第10集】不能观看请检查修复，页面地址：第10集$https://vip.dytt-tvs.com/share/cd3b1a524a7c489164eb52735036e4c4')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第11集$https://vip.dytt-tvs.com/share/0d99a0d50f46761ed5f1d32e22783d2a" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第11集" href="https://vip.dytt-tvs.com/share/0d99a0d50f46761ed5f1d32e22783d2a" target="_blank" style="color: #1c86ee">第11集$https://vip.dytt-tvs.com/share/0d99a0d50f46761ed5f1d32e22783d2a</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第11集】不能观看请检查修复，页面地址：第11集$https://vip.dytt-tvs.com/share/0d99a0d50f46761ed5f1d32e22783d2a')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第12集$https://vip.dytt-tvs.com/share/4798443501a54a147b4098b919f7b44c" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第12集" href="https://vip.dytt-tvs.com/share/4798443501a54a147b4098b919f7b44c" target="_blank" style="color: #1c86ee">第12集$https://vip.dytt-tvs.com/share/4798443501a54a147b4098b919f7b44c</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第12集】不能观看请检查修复，页面地址：第12集$https://vip.dytt-tvs.com/share/4798443501a54a147b4098b919f7b44c')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第13集$https://vip.dytt-tvs.com/share/882e283e7a4ccbd2e58772cf77fa937e" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第13集" href="https://vip.dytt-tvs.com/share/882e283e7a4ccbd2e58772cf77fa937e" target="_blank" style="color: #1c86ee">第13集$https://vip.dytt-tvs.com/share/882e283e7a4ccbd2e58772cf77fa937e</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第13集】不能观看请检查修复，页面地址：第13集$https://vip.dytt-tvs.com/share/882e283e7a4ccbd2e58772cf77fa937e')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第14集$https://vip.dytt-tvs.com/share/a99509dcdbfe18122905caf51d940196" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第14集" href="https://vip.dytt-tvs.com/share/a99509dcdbfe18122905caf51d940196" target="_blank" style="color: #1c86ee">第14集$https://vip.dytt-tvs.com/share/a99509dcdbfe18122905caf51d940196</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第14集】不能观看请检查修复，页面地址：第14集$https://vip.dytt-tvs.com/share/a99509dcdbfe18122905caf51d940196')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第15集$https://vip.dytt-tvs.com/share/1676617e5795c9117592e5e53c7d7e52" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第15集" href="https://vip.dytt-tvs.com/share/1676617e5795c9117592e5e53c7d7e52" target="_blank" style="color: #1c86ee">第15集$https://vip.dytt-tvs.com/share/1676617e5795c9117592e5e53c7d7e52</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第15集】不能观看请检查修复，页面地址：第15集$https://vip.dytt-tvs.com/share/1676617e5795c9117592e5e53c7d7e52')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第16集$https://vip.dytt-tvs.com/share/e91d9d8a18bc230d88e9241865958431" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第16集" href="https://vip.dytt-tvs.com/share/e91d9d8a18bc230d88e9241865958431" target="_blank" style="color: #1c86ee">第16集$https://vip.dytt-tvs.com/share/e91d9d8a18bc230d88e9241865958431</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第16集】不能观看请检查修复，页面地址：第16集$https://vip.dytt-tvs.com/share/e91d9d8a18bc230d88e9241865958431')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第17集$https://vip.dytt-tvs.com/share/a86cc0b404ab003e0badb9ed96b55ace" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第17集" href="https://vip.dytt-tvs.com/share/a86cc0b404ab003e0badb9ed96b55ace" target="_blank" style="color: #1c86ee">第17集$https://vip.dytt-tvs.com/share/a86cc0b404ab003e0badb9ed96b55ace</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第17集】不能观看请检查修复，页面地址：第17集$https://vip.dytt-tvs.com/share/a86cc0b404ab003e0badb9ed96b55ace')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第18集$https://vip.dytt-tvs.com/share/acf5f6c0f191807cf4e35ca95fd9a486" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第18集" href="https://vip.dytt-tvs.com/share/acf5f6c0f191807cf4e35ca95fd9a486" target="_blank" style="color: #1c86ee">第18集$https://vip.dytt-tvs.com/share/acf5f6c0f191807cf4e35ca95fd9a486</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第18集】不能观看请检查修复，页面地址：第18集$https://vip.dytt-tvs.com/share/acf5f6c0f191807cf4e35ca95fd9a486')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第19集$https://vip.dytt-tvs.com/share/f863c1c3ef0a21f87d108f0c0fac757a" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第19集" href="https://vip.dytt-tvs.com/share/f863c1c3ef0a21f87d108f0c0fac757a" target="_blank" style="color: #1c86ee">第19集$https://vip.dytt-tvs.com/share/f863c1c3ef0a21f87d108f0c0fac757a</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第19集】不能观看请检查修复，页面地址：第19集$https://vip.dytt-tvs.com/share/f863c1c3ef0a21f87d108f0c0fac757a')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第20集$https://vip.dytt-tvs.com/share/4fd76758ca20a054063d174c3cd7f394" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第20集" href="https://vip.dytt-tvs.com/share/4fd76758ca20a054063d174c3cd7f394" target="_blank" style="color: #1c86ee">第20集$https://vip.dytt-tvs.com/share/4fd76758ca20a054063d174c3cd7f394</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第20集】不能观看请检查修复，页面地址：第20集$https://vip.dytt-tvs.com/share/4fd76758ca20a054063d174c3cd7f394')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第21集$https://vip.dytt-tvs.com/share/5b2afc07f58d13c0203bc1df693d7017" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第21集" href="https://vip.dytt-tvs.com/share/5b2afc07f58d13c0203bc1df693d7017" target="_blank" style="color: #1c86ee">第21集$https://vip.dytt-tvs.com/share/5b2afc07f58d13c0203bc1df693d7017</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第21集】不能观看请检查修复，页面地址：第21集$https://vip.dytt-tvs.com/share/5b2afc07f58d13c0203bc1df693d7017')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第22集$https://vip.dytt-tvs.com/share/ffec991bf0f35f7e7688cf0d39c9f9f4" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第22集" href="https://vip.dytt-tvs.com/share/ffec991bf0f35f7e7688cf0d39c9f9f4" target="_blank" style="color: #1c86ee">第22集$https://vip.dytt-tvs.com/share/ffec991bf0f35f7e7688cf0d39c9f9f4</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第22集】不能观看请检查修复，页面地址：第22集$https://vip.dytt-tvs.com/share/ffec991bf0f35f7e7688cf0d39c9f9f4')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第23集$https://vip.dytt-tvs.com/share/fc980938978e9f85d16d3bc30af6efce" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第23集" href="https://vip.dytt-tvs.com/share/fc980938978e9f85d16d3bc30af6efce" target="_blank" style="color: #1c86ee">第23集$https://vip.dytt-tvs.com/share/fc980938978e9f85d16d3bc30af6efce</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第23集】不能观看请检查修复，页面地址：第23集$https://vip.dytt-tvs.com/share/fc980938978e9f85d16d3bc30af6efce')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第24集$https://vip.dytt-tvs.com/share/89a86fb8fae4e02bc68ad6327fcf4d73" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第24集" href="https://vip.dytt-tvs.com/share/89a86fb8fae4e02bc68ad6327fcf4d73" target="_blank" style="color: #1c86ee">第24集$https://vip.dytt-tvs.com/share/89a86fb8fae4e02bc68ad6327fcf4d73</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第24集】不能观看请检查修复，页面地址：第24集$https://vip.dytt-tvs.com/share/89a86fb8fae4e02bc68ad6327fcf4d73')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第25集$https://vip.dytt-tvs.com/share/ac9dba01b6a0c511d48cec6deb90b488" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第25集" href="https://vip.dytt-tvs.com/share/ac9dba01b6a0c511d48cec6deb90b488" target="_blank" style="color: #1c86ee">第25集$https://vip.dytt-tvs.com/share/ac9dba01b6a0c511d48cec6deb90b488</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第25集】不能观看请检查修复，页面地址：第25集$https://vip.dytt-tvs.com/share/ac9dba01b6a0c511d48cec6deb90b488')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第26集$https://play.phimgood.com/share/5f795ee135dd0eab5014a56ff3e47df7" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第26集" href="https://play.phimgood.com/share/5f795ee135dd0eab5014a56ff3e47df7" target="_blank" style="color: #1c86ee">第26集$https://play.phimgood.com/share/5f795ee135dd0eab5014a56ff3e47df7</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第26集】不能观看请检查修复，页面地址：第26集$https://play.phimgood.com/share/5f795ee135dd0eab5014a56ff3e47df7')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第27集$https://vip.dytt-tvs.com/share/bc75da6b715e7bf1f4ab8af3f4ef294a" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第27集" href="https://vip.dytt-tvs.com/share/bc75da6b715e7bf1f4ab8af3f4ef294a" target="_blank" style="color: #1c86ee">第27集$https://vip.dytt-tvs.com/share/bc75da6b715e7bf1f4ab8af3f4ef294a</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第27集】不能观看请检查修复，页面地址：第27集$https://vip.dytt-tvs.com/share/bc75da6b715e7bf1f4ab8af3f4ef294a')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第28集$https://vip.dytt-tvs.com/share/263f71c11bcabae5f862a1d8c05a8738" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第28集" href="https://vip.dytt-tvs.com/share/263f71c11bcabae5f862a1d8c05a8738" target="_blank" style="color: #1c86ee">第28集$https://vip.dytt-tvs.com/share/263f71c11bcabae5f862a1d8c05a8738</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第28集】不能观看请检查修复，页面地址：第28集$https://vip.dytt-tvs.com/share/263f71c11bcabae5f862a1d8c05a8738')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第29集$https://vip.dytt-tvs.com/share/ca1a4a8c9b1cf2281c552bec03dfb2c4" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第29集" href="https://vip.dytt-tvs.com/share/ca1a4a8c9b1cf2281c552bec03dfb2c4" target="_blank" style="color: #1c86ee">第29集$https://vip.dytt-tvs.com/share/ca1a4a8c9b1cf2281c552bec03dfb2c4</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第29集】不能观看请检查修复，页面地址：第29集$https://vip.dytt-tvs.com/share/ca1a4a8c9b1cf2281c552bec03dfb2c4')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第30集$https://vip.dytt-tvs.com/share/aa5b738616facb0e2b0409c547b338d7" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第30集" href="https://vip.dytt-tvs.com/share/aa5b738616facb0e2b0409c547b338d7" target="_blank" style="color: #1c86ee">第30集$https://vip.dytt-tvs.com/share/aa5b738616facb0e2b0409c547b338d7</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第30集】不能观看请检查修复，页面地址：第30集$https://vip.dytt-tvs.com/share/aa5b738616facb0e2b0409c547b338d7')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第31集$https://vip.dytt-tvs.com/share/603effb477d4cf3d69dfce539d71d13a" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第31集" href="https://vip.dytt-tvs.com/share/603effb477d4cf3d69dfce539d71d13a" target="_blank" style="color: #1c86ee">第31集$https://vip.dytt-tvs.com/share/603effb477d4cf3d69dfce539d71d13a</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第31集】不能观看请检查修复，页面地址：第31集$https://vip.dytt-tvs.com/share/603effb477d4cf3d69dfce539d71d13a')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第32集$https://vip.dytt-tvs.com/share/aa3822441ad0f887f55ed958a6a4b31d" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第32集" href="https://vip.dytt-tvs.com/share/aa3822441ad0f887f55ed958a6a4b31d" target="_blank" style="color: #1c86ee">第32集$https://vip.dytt-tvs.com/share/aa3822441ad0f887f55ed958a6a4b31d</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第32集】不能观看请检查修复，页面地址：第32集$https://vip.dytt-tvs.com/share/aa3822441ad0f887f55ed958a6a4b31d')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第33集$https://vip.dytt-tvs.com/share/889198b37574d509349c9f98bf44981f" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第33集" href="https://vip.dytt-tvs.com/share/889198b37574d509349c9f98bf44981f" target="_blank" style="color: #1c86ee">第33集$https://vip.dytt-tvs.com/share/889198b37574d509349c9f98bf44981f</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第33集】不能观看请检查修复，页面地址：第33集$https://vip.dytt-tvs.com/share/889198b37574d509349c9f98bf44981f')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第34集$https://vip.dytt-tvs.com/share/1b7fc1240fc206d92d4f543629a79d87" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第34集" href="https://vip.dytt-tvs.com/share/1b7fc1240fc206d92d4f543629a79d87" target="_blank" style="color: #1c86ee">第34集$https://vip.dytt-tvs.com/share/1b7fc1240fc206d92d4f543629a79d87</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第34集】不能观看请检查修复，页面地址：第34集$https://vip.dytt-tvs.com/share/1b7fc1240fc206d92d4f543629a79d87')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第35集$https://vip.dytt-tvs.com/share/7604b240cf34aeb6f38d8855d0a4ff79" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第35集" href="https://vip.dytt-tvs.com/share/7604b240cf34aeb6f38d8855d0a4ff79" target="_blank" style="color: #1c86ee">第35集$https://vip.dytt-tvs.com/share/7604b240cf34aeb6f38d8855d0a4ff79</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第35集】不能观看请检查修复，页面地址：第35集$https://vip.dytt-tvs.com/share/7604b240cf34aeb6f38d8855d0a4ff79')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第36集$https://vip.dytt-tvs.com/share/849dc2aa3a610f5ac8d4080ec9ca7f86" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第36集" href="https://vip.dytt-tvs.com/share/849dc2aa3a610f5ac8d4080ec9ca7f86" target="_blank" style="color: #1c86ee">第36集$https://vip.dytt-tvs.com/share/849dc2aa3a610f5ac8d4080ec9ca7f86</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第36集】不能观看请检查修复，页面地址：第36集$https://vip.dytt-tvs.com/share/849dc2aa3a610f5ac8d4080ec9ca7f86')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第37集$https://vip.dytt-tvs.com/share/07f2d8dbef3b2aeca9cb258091bc3dba" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第37集" href="https://vip.dytt-tvs.com/share/07f2d8dbef3b2aeca9cb258091bc3dba" target="_blank" style="color: #1c86ee">第37集$https://vip.dytt-tvs.com/share/07f2d8dbef3b2aeca9cb258091bc3dba</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第37集】不能观看请检查修复，页面地址：第37集$https://vip.dytt-tvs.com/share/07f2d8dbef3b2aeca9cb258091bc3dba')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第38集$https://vip.dytt-tvs.com/share/dfcfbb196720bb3febac626b8b9d082d" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第38集" href="https://vip.dytt-tvs.com/share/dfcfbb196720bb3febac626b8b9d082d" target="_blank" style="color: #1c86ee">第38集$https://vip.dytt-tvs.com/share/dfcfbb196720bb3febac626b8b9d082d</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第38集】不能观看请检查修复，页面地址：第38集$https://vip.dytt-tvs.com/share/dfcfbb196720bb3febac626b8b9d082d')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第39集$https://vip.dytt-tvs.com/share/8db9f220b4440d3482cc85657b2d7d23" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第39集" href="https://vip.dytt-tvs.com/share/8db9f220b4440d3482cc85657b2d7d23" target="_blank" style="color: #1c86ee">第39集$https://vip.dytt-tvs.com/share/8db9f220b4440d3482cc85657b2d7d23</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第39集】不能观看请检查修复，页面地址：第39集$https://vip.dytt-tvs.com/share/8db9f220b4440d3482cc85657b2d7d23')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dytt[]" type="checkbox" value="第40集$https://vip.dytt-tvs.com/share/70a2a0fc04e86e96649c1d5606a3e6ef" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第40集" href="https://vip.dytt-tvs.com/share/70a2a0fc04e86e96649c1d5606a3e6ef" target="_blank" style="color: #1c86ee">第40集$https://vip.dytt-tvs.com/share/70a2a0fc04e86e96649c1d5606a3e6ef</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第40集】不能观看请检查修复，页面地址：第40集$https://vip.dytt-tvs.com/share/70a2a0fc04e86e96649c1d5606a3e6ef')">报错</a></li>
+<hr>
+<li class="mt-2">
+<input onclick="checkAll('dytt',this.checked)" checked="" type="checkbox" style="line-height: 21px;">&nbsp;&nbsp;
+<font style="height: 21px;line-height: 21px;color:red;">全选</font>&nbsp;&nbsp;
+<div class="block md:inline-block mt-1 md:mt-0">
+<a class="dyttall1 ckey cursor-pointer ms-1" title="复制链接" onclick="copy1('dytt', 'dytt-copy1-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dytt-copy1-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制链接</kbd></a>
+<a class="dyttall2 ckey cursor-pointer ms-1" title="复制名称$链接" onclick="copy2('dytt', 'dytt-copy2-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dytt-copy2-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制名称$链接</kbd></a>
+<a class="dyttall3 ckey cursor-pointer ms-1" title="复制名称$链接$后缀" onclick="copy3('dytt', 'dytt-copy3-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dytt-copy3-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制名称$链接$后缀</kbd></a></div></li></ul></div>
+<div class="col-span-2 md:col-span-1 bg-green-50/50 rounded-lg p-2">
+<h4>
+<div>dyttm3u8地址</div></h4>
+<hr>
+<ul class="playlist wbox dyttm3u8">
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第01集$https://vip.dytt-tvs.com/20260906/35904_67e91755/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第01集" href="https://vip.dytt-tvs.com/20260906/35904_67e91755/index.m3u8" target="_blank" style="color: #1c86ee">第01集$https://vip.dytt-tvs.com/20260906/35904_67e91755/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第01集】不能观看请检查修复，页面地址：第01集$https://vip.dytt-tvs.com/20260906/35904_67e91755/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第02集$https://vip.dytt-tvs.com/20260906/35903_8697b0e9/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第02集" href="https://vip.dytt-tvs.com/20260906/35903_8697b0e9/index.m3u8" target="_blank" style="color: #1c86ee">第02集$https://vip.dytt-tvs.com/20260906/35903_8697b0e9/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第02集】不能观看请检查修复，页面地址：第02集$https://vip.dytt-tvs.com/20260906/35903_8697b0e9/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第03集$https://vip.dytt-tvs.com/20260906/35902_297599ea/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第03集" href="https://vip.dytt-tvs.com/20260906/35902_297599ea/index.m3u8" target="_blank" style="color: #1c86ee">第03集$https://vip.dytt-tvs.com/20260906/35902_297599ea/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第03集】不能观看请检查修复，页面地址：第03集$https://vip.dytt-tvs.com/20260906/35902_297599ea/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第04集$https://vip.dytt-tvs.com/20260906/35919_82b05ac4/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第04集" href="https://vip.dytt-tvs.com/20260906/35919_82b05ac4/index.m3u8" target="_blank" style="color: #1c86ee">第04集$https://vip.dytt-tvs.com/20260906/35919_82b05ac4/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第04集】不能观看请检查修复，页面地址：第04集$https://vip.dytt-tvs.com/20260906/35919_82b05ac4/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第05集$https://vip.dytt-tvs.com/20260907/36032_8ad87141/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第05集" href="https://vip.dytt-tvs.com/20260907/36032_8ad87141/index.m3u8" target="_blank" style="color: #1c86ee">第05集$https://vip.dytt-tvs.com/20260907/36032_8ad87141/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第05集】不能观看请检查修复，页面地址：第05集$https://vip.dytt-tvs.com/20260907/36032_8ad87141/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第06集$https://vip.dytt-tvs.com/20260907/36031_61c0f06d/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第06集" href="https://vip.dytt-tvs.com/20260907/36031_61c0f06d/index.m3u8" target="_blank" style="color: #1c86ee">第06集$https://vip.dytt-tvs.com/20260907/36031_61c0f06d/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第06集】不能观看请检查修复，页面地址：第06集$https://vip.dytt-tvs.com/20260907/36031_61c0f06d/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第07集$https://vip.dytt-tvs.com/20260908/36175_3d29fb52/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第07集" href="https://vip.dytt-tvs.com/20260908/36175_3d29fb52/index.m3u8" target="_blank" style="color: #1c86ee">第07集$https://vip.dytt-tvs.com/20260908/36175_3d29fb52/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第07集】不能观看请检查修复，页面地址：第07集$https://vip.dytt-tvs.com/20260908/36175_3d29fb52/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第08集$https://vip.dytt-tvs.com/20260908/36176_a0c88573/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第08集" href="https://vip.dytt-tvs.com/20260908/36176_a0c88573/index.m3u8" target="_blank" style="color: #1c86ee">第08集$https://vip.dytt-tvs.com/20260908/36176_a0c88573/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第08集】不能观看请检查修复，页面地址：第08集$https://vip.dytt-tvs.com/20260908/36176_a0c88573/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第09集$https://vip.dytt-tvs.com/20260909/36327_f5c317aa/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第09集" href="https://vip.dytt-tvs.com/20260909/36327_f5c317aa/index.m3u8" target="_blank" style="color: #1c86ee">第09集$https://vip.dytt-tvs.com/20260909/36327_f5c317aa/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第09集】不能观看请检查修复，页面地址：第09集$https://vip.dytt-tvs.com/20260909/36327_f5c317aa/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第10集$https://vip.dytt-tvs.com/20260909/36331_cd3b1a52/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第10集" href="https://vip.dytt-tvs.com/20260909/36331_cd3b1a52/index.m3u8" target="_blank" style="color: #1c86ee">第10集$https://vip.dytt-tvs.com/20260909/36331_cd3b1a52/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第10集】不能观看请检查修复，页面地址：第10集$https://vip.dytt-tvs.com/20260909/36331_cd3b1a52/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第11集$https://vip.dytt-tvs.com/20260910/36471_0d99a0d5/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第11集" href="https://vip.dytt-tvs.com/20260910/36471_0d99a0d5/index.m3u8" target="_blank" style="color: #1c86ee">第11集$https://vip.dytt-tvs.com/20260910/36471_0d99a0d5/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第11集】不能观看请检查修复，页面地址：第11集$https://vip.dytt-tvs.com/20260910/36471_0d99a0d5/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第12集$https://vip.dytt-tvs.com/20260910/36501_47984435/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第12集" href="https://vip.dytt-tvs.com/20260910/36501_47984435/index.m3u8" target="_blank" style="color: #1c86ee">第12集$https://vip.dytt-tvs.com/20260910/36501_47984435/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第12集】不能观看请检查修复，页面地址：第12集$https://vip.dytt-tvs.com/20260910/36501_47984435/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第13集$https://vip.dytt-tvs.com/20260911/36638_882e283e/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第13集" href="https://vip.dytt-tvs.com/20260911/36638_882e283e/index.m3u8" target="_blank" style="color: #1c86ee">第13集$https://vip.dytt-tvs.com/20260911/36638_882e283e/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第13集】不能观看请检查修复，页面地址：第13集$https://vip.dytt-tvs.com/20260911/36638_882e283e/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第14集$https://vip.dytt-tvs.com/20260911/36647_a99509dc/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第14集" href="https://vip.dytt-tvs.com/20260911/36647_a99509dc/index.m3u8" target="_blank" style="color: #1c86ee">第14集$https://vip.dytt-tvs.com/20260911/36647_a99509dc/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第14集】不能观看请检查修复，页面地址：第14集$https://vip.dytt-tvs.com/20260911/36647_a99509dc/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第15集$https://vip.dytt-tvs.com/20260912/36805_1676617e/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第15集" href="https://vip.dytt-tvs.com/20260912/36805_1676617e/index.m3u8" target="_blank" style="color: #1c86ee">第15集$https://vip.dytt-tvs.com/20260912/36805_1676617e/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第15集】不能观看请检查修复，页面地址：第15集$https://vip.dytt-tvs.com/20260912/36805_1676617e/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第16集$https://vip.dytt-tvs.com/20260912/36808_e91d9d8a/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第16集" href="https://vip.dytt-tvs.com/20260912/36808_e91d9d8a/index.m3u8" target="_blank" style="color: #1c86ee">第16集$https://vip.dytt-tvs.com/20260912/36808_e91d9d8a/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第16集】不能观看请检查修复，页面地址：第16集$https://vip.dytt-tvs.com/20260912/36808_e91d9d8a/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第17集$https://vip.dytt-tvs.com/20260913/36920_a86cc0b4/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第17集" href="https://vip.dytt-tvs.com/20260913/36920_a86cc0b4/index.m3u8" target="_blank" style="color: #1c86ee">第17集$https://vip.dytt-tvs.com/20260913/36920_a86cc0b4/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第17集】不能观看请检查修复，页面地址：第17集$https://vip.dytt-tvs.com/20260913/36920_a86cc0b4/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第18集$https://vip.dytt-tvs.com/20260913/36925_acf5f6c0/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第18集" href="https://vip.dytt-tvs.com/20260913/36925_acf5f6c0/index.m3u8" target="_blank" style="color: #1c86ee">第18集$https://vip.dytt-tvs.com/20260913/36925_acf5f6c0/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第18集】不能观看请检查修复，页面地址：第18集$https://vip.dytt-tvs.com/20260913/36925_acf5f6c0/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第19集$https://vip.dytt-tvs.com/20260914/37031_f863c1c3/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第19集" href="https://vip.dytt-tvs.com/20260914/37031_f863c1c3/index.m3u8" target="_blank" style="color: #1c86ee">第19集$https://vip.dytt-tvs.com/20260914/37031_f863c1c3/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第19集】不能观看请检查修复，页面地址：第19集$https://vip.dytt-tvs.com/20260914/37031_f863c1c3/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第20集$https://vip.dytt-tvs.com/20260914/37035_4fd76758/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第20集" href="https://vip.dytt-tvs.com/20260914/37035_4fd76758/index.m3u8" target="_blank" style="color: #1c86ee">第20集$https://vip.dytt-tvs.com/20260914/37035_4fd76758/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第20集】不能观看请检查修复，页面地址：第20集$https://vip.dytt-tvs.com/20260914/37035_4fd76758/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第21集$https://vip.dytt-tvs.com/20260915/37191_5b2afc07/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第21集" href="https://vip.dytt-tvs.com/20260915/37191_5b2afc07/index.m3u8" target="_blank" style="color: #1c86ee">第21集$https://vip.dytt-tvs.com/20260915/37191_5b2afc07/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第21集】不能观看请检查修复，页面地址：第21集$https://vip.dytt-tvs.com/20260915/37191_5b2afc07/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第22集$https://vip.dytt-tvs.com/20260915/37212_ffec991b/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第22集" href="https://vip.dytt-tvs.com/20260915/37212_ffec991b/index.m3u8" target="_blank" style="color: #1c86ee">第22集$https://vip.dytt-tvs.com/20260915/37212_ffec991b/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第22集】不能观看请检查修复，页面地址：第22集$https://vip.dytt-tvs.com/20260915/37212_ffec991b/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第23集$https://vip.dytt-tvs.com/20260916/37302_fc980938/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第23集" href="https://vip.dytt-tvs.com/20260916/37302_fc980938/index.m3u8" target="_blank" style="color: #1c86ee">第23集$https://vip.dytt-tvs.com/20260916/37302_fc980938/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第23集】不能观看请检查修复，页面地址：第23集$https://vip.dytt-tvs.com/20260916/37302_fc980938/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第24集$https://vip.dytt-tvs.com/20260916/37306_89a86fb8/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第24集" href="https://vip.dytt-tvs.com/20260916/37306_89a86fb8/index.m3u8" target="_blank" style="color: #1c86ee">第24集$https://vip.dytt-tvs.com/20260916/37306_89a86fb8/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第24集】不能观看请检查修复，页面地址：第24集$https://vip.dytt-tvs.com/20260916/37306_89a86fb8/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第25集$https://vip.dytt-tvs.com/20260917/37443_ac9dba01/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第25集" href="https://vip.dytt-tvs.com/20260917/37443_ac9dba01/index.m3u8" target="_blank" style="color: #1c86ee">第25集$https://vip.dytt-tvs.com/20260917/37443_ac9dba01/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第25集】不能观看请检查修复，页面地址：第25集$https://vip.dytt-tvs.com/20260917/37443_ac9dba01/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第26集$https://play.phimgood.com/20260917/31356_5f795ee1/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第26集" href="https://play.phimgood.com/20260917/31356_5f795ee1/index.m3u8" target="_blank" style="color: #1c86ee">第26集$https://play.phimgood.com/20260917/31356_5f795ee1/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第26集】不能观看请检查修复，页面地址：第26集$https://play.phimgood.com/20260917/31356_5f795ee1/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第27集$https://vip.dytt-tvs.com/20260918/37607_bc75da6b/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第27集" href="https://vip.dytt-tvs.com/20260918/37607_bc75da6b/index.m3u8" target="_blank" style="color: #1c86ee">第27集$https://vip.dytt-tvs.com/20260918/37607_bc75da6b/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第27集】不能观看请检查修复，页面地址：第27集$https://vip.dytt-tvs.com/20260918/37607_bc75da6b/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第28集$https://vip.dytt-tvs.com/20260918/37619_263f71c1/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第28集" href="https://vip.dytt-tvs.com/20260918/37619_263f71c1/index.m3u8" target="_blank" style="color: #1c86ee">第28集$https://vip.dytt-tvs.com/20260918/37619_263f71c1/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第28集】不能观看请检查修复，页面地址：第28集$https://vip.dytt-tvs.com/20260918/37619_263f71c1/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第29集$https://vip.dytt-tvs.com/20260919/37734_ca1a4a8c/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第29集" href="https://vip.dytt-tvs.com/20260919/37734_ca1a4a8c/index.m3u8" target="_blank" style="color: #1c86ee">第29集$https://vip.dytt-tvs.com/20260919/37734_ca1a4a8c/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第29集】不能观看请检查修复，页面地址：第29集$https://vip.dytt-tvs.com/20260919/37734_ca1a4a8c/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第30集$https://vip.dytt-tvs.com/20260919/37741_aa5b7386/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第30集" href="https://vip.dytt-tvs.com/20260919/37741_aa5b7386/index.m3u8" target="_blank" style="color: #1c86ee">第30集$https://vip.dytt-tvs.com/20260919/37741_aa5b7386/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第30集】不能观看请检查修复，页面地址：第30集$https://vip.dytt-tvs.com/20260919/37741_aa5b7386/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第31集$https://vip.dytt-tvs.com/20260920/37862_603effb4/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第31集" href="https://vip.dytt-tvs.com/20260920/37862_603effb4/index.m3u8" target="_blank" style="color: #1c86ee">第31集$https://vip.dytt-tvs.com/20260920/37862_603effb4/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第31集】不能观看请检查修复，页面地址：第31集$https://vip.dytt-tvs.com/20260920/37862_603effb4/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第32集$https://vip.dytt-tvs.com/20260920/37864_aa382244/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第32集" href="https://vip.dytt-tvs.com/20260920/37864_aa382244/index.m3u8" target="_blank" style="color: #1c86ee">第32集$https://vip.dytt-tvs.com/20260920/37864_aa382244/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第32集】不能观看请检查修复，页面地址：第32集$https://vip.dytt-tvs.com/20260920/37864_aa382244/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第33集$https://vip.dytt-tvs.com/20260921/37987_889198b3/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第33集" href="https://vip.dytt-tvs.com/20260921/37987_889198b3/index.m3u8" target="_blank" style="color: #1c86ee">第33集$https://vip.dytt-tvs.com/20260921/37987_889198b3/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第33集】不能观看请检查修复，页面地址：第33集$https://vip.dytt-tvs.com/20260921/37987_889198b3/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第34集$https://vip.dytt-tvs.com/20260921/37990_1b7fc124/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第34集" href="https://vip.dytt-tvs.com/20260921/37990_1b7fc124/index.m3u8" target="_blank" style="color: #1c86ee">第34集$https://vip.dytt-tvs.com/20260921/37990_1b7fc124/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第34集】不能观看请检查修复，页面地址：第34集$https://vip.dytt-tvs.com/20260921/37990_1b7fc124/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第35集$https://vip.dytt-tvs.com/20260922/38118_7604b240/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第35集" href="https://vip.dytt-tvs.com/20260922/38118_7604b240/index.m3u8" target="_blank" style="color: #1c86ee">第35集$https://vip.dytt-tvs.com/20260922/38118_7604b240/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第35集】不能观看请检查修复，页面地址：第35集$https://vip.dytt-tvs.com/20260922/38118_7604b240/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第36集$https://vip.dytt-tvs.com/20260922/38134_849dc2aa/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第36集" href="https://vip.dytt-tvs.com/20260922/38134_849dc2aa/index.m3u8" target="_blank" style="color: #1c86ee">第36集$https://vip.dytt-tvs.com/20260922/38134_849dc2aa/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第36集】不能观看请检查修复，页面地址：第36集$https://vip.dytt-tvs.com/20260922/38134_849dc2aa/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第37集$https://vip.dytt-tvs.com/20260922/38133_07f2d8db/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第37集" href="https://vip.dytt-tvs.com/20260922/38133_07f2d8db/index.m3u8" target="_blank" style="color: #1c86ee">第37集$https://vip.dytt-tvs.com/20260922/38133_07f2d8db/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第37集】不能观看请检查修复，页面地址：第37集$https://vip.dytt-tvs.com/20260922/38133_07f2d8db/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第38集$https://vip.dytt-tvs.com/20260922/38132_dfcfbb19/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第38集" href="https://vip.dytt-tvs.com/20260922/38132_dfcfbb19/index.m3u8" target="_blank" style="color: #1c86ee">第38集$https://vip.dytt-tvs.com/20260922/38132_dfcfbb19/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第38集】不能观看请检查修复，页面地址：第38集$https://vip.dytt-tvs.com/20260922/38132_dfcfbb19/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第39集$https://vip.dytt-tvs.com/20260922/38131_8db9f220/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第39集" href="https://vip.dytt-tvs.com/20260922/38131_8db9f220/index.m3u8" target="_blank" style="color: #1c86ee">第39集$https://vip.dytt-tvs.com/20260922/38131_8db9f220/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第39集】不能观看请检查修复，页面地址：第39集$https://vip.dytt-tvs.com/20260922/38131_8db9f220/index.m3u8')">报错</a></li>
+<hr>
+<li class="border-b border-extra-sage/50 flex justify-between items-center">
+<input class="flex-none" name="copy_dyttm3u8[]" type="checkbox" value="第40集$https://vip.dytt-tvs.com/20260922/38135_70a2a0fc/index.m3u8" checked="">&nbsp;&nbsp;
+<a class="flex-auto w-48 md:w-[80%] overflow-hidden text-ellipsis text-nowrap" title="第40集" href="https://vip.dytt-tvs.com/20260922/38135_70a2a0fc/index.m3u8" target="_blank" style="color: #1c86ee">第40集$https://vip.dytt-tvs.com/20260922/38135_70a2a0fc/index.m3u8</a>
+<a href="javascript:;" class="bugs flex-end bg-red-400 text-white text-xs font-medium me-2 px-2.5 py-0.5 rounded" onclick="MAC.Gbook.Report('编号【84119】名称【第40集】不能观看请检查修复，页面地址：第40集$https://vip.dytt-tvs.com/20260922/38135_70a2a0fc/index.m3u8')">报错</a></li>
+<hr>
+<li class="mt-2">
+<input onclick="checkAll('dyttm3u8',this.checked)" checked="" type="checkbox" style="line-height: 21px;">&nbsp;&nbsp;
+<font style="height: 21px;line-height: 21px;color:red;">全选</font>&nbsp;&nbsp;
+<div class="block md:inline-block mt-1 md:mt-0">
+<a class="dyttm3u8all1 ckey cursor-pointer ms-1" title="复制链接" onclick="copy1('dyttm3u8', 'dyttm3u8-copy1-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dyttm3u8-copy1-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制链接</kbd></a>
+<a class="dyttm3u8all2 ckey cursor-pointer ms-1" title="复制名称$链接" onclick="copy2('dyttm3u8', 'dyttm3u8-copy2-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dyttm3u8-copy2-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制名称$链接</kbd></a>
+<a class="dyttm3u8all3 ckey cursor-pointer ms-1" title="复制名称$链接$后缀" onclick="copy3('dyttm3u8', 'dyttm3u8-copy3-status');">
+<kbd class="px-2 py-1.5 text-xs font-semibold text-green-900 bg-primary hover:bg-primary/80 border border-extra-sage rounded-lg">
+<svg id="dyttm3u8-copy3-status" class="w-3 h-3 text-white me-2 hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 16 12">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5.917 5.724 10.5 15 1.5"></path></svg>复制名称$链接$后缀</kbd></a></div></li></ul></div></div></div></div></div></div></main>
+<footer class="container mx-auto bg-extra-sage rounded-lg shadow m-4">
+<div class="w-full p-4 flex flex-col md:flex-row items-center justify-between">
+<span class="text-sm text-green-900 sm:text-center">© 2025 
+<a href="#" class="hover:underline">DYTT™</a>. All Rights Reserved. </span>
+<ul class="flex flex-wrap items-center mt-3 text-sm font-medium text-green-900 sm:mt-0">
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">About</a></li>
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">Privacy Policy</a></li>
+<li>
+<a href="#" class="hover:underline me-4 md:me-6">Licensing</a></li>
+<li>
+<a href="#" class="hover:underline">Contact</a></li></ul></div></footer>
+<script>var _czc = _czc || [];(function () { var um = document.createElement("script"); um.src ="https://s4.cnzz.com/z.js?id=1281466364&async=1"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(um, s);})();</script>
+<div id="drawer-navigation" class="fixed top-0 left-0 z-40 h-screen p-4 overflow-y-auto scrollbar-thin scrollbar-thumb-primary scrollbar-track-extra-grey transition-transform -translate-x-full bg-gradient-to-r from-primary to-extra-sage/80 w-64" tabindex="-1" aria-labelledby="drawer-navigation-label" aria-hidden="true">
+<button type="button" data-drawer-hide="drawer-navigation" aria-controls="drawer-navigation" class="text-green-900 bg-transparent hover:bg-gray-200 hover:text-red-500 rounded-lg text-sm w-8 h-8 absolute top-2.5 end-2.5 inline-flex items-center justify-center">
+<svg class="w-3 h-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 14">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 6 6m0 0 6 6M7 7l6-6M7 7l-6 6"></path></svg>
+<span class="sr-only">Close menu</span></button>
+<div class="py-4 mt-4 space-y-2 overflow-y-auto">
+<form class="group relative" method="GET" action="/index.php/vod/search.html" onsubmit="return qrsearch();">
+<svg width="{20}" height="{20}" fill="currentColor" class="absolute left-3 top-1/2 -mt-2.5 text-slate-400 pointer-events-none group-focus-within:text-primary" aria-hidden="true">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"></path></svg>
+<input name="wd" class="bg-green-50/50 focus:ring-2 focus:ring-extra-sage focus:outline-none appearance-none w-full text-sm leading-6 text-slate-900 placeholder-slate-400 rounded-full py-1 pl-10 ring-1 ring-primary" type="text" aria-label="请在此处输入影片名或演员名称..." placeholder="请在此处输入影片名或演员名称..."></form>
+<ul class="space-y-2 font-medium text-center">
+<li class="text-center mb-2">
+<a href="/" class="text-green-900 hover:text-blue-500 p-2 rounded-lg hover:bg-gray-100 group" title="首页">首页</a></li>
+<li>
+<a href="/index.php/vod/type/id/1.html" title="电影片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">电影片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/6.html" title="动作片" class="block px-4 py-2 hover:bg-gray-100">动作片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/7.html" title="喜剧片" class="block px-4 py-2 hover:bg-gray-100">喜剧片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/9.html" title="科幻片" class="block px-4 py-2 hover:bg-gray-100">科幻片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/10.html" title="恐怖片" class="block px-4 py-2 hover:bg-gray-100">恐怖片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/8.html" title="爱情片" class="block px-4 py-2 hover:bg-gray-100">爱情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/11.html" title="剧情片" class="block px-4 py-2 hover:bg-gray-100">剧情片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/12.html" title="战争片" class="block px-4 py-2 hover:bg-gray-100">战争片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/20.html" title="记录片" class="block px-4 py-2 hover:bg-gray-100">记录片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/37.html" title="动画片" class="block px-4 py-2 hover:bg-gray-100">动画片</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/34.html" title="伦理片" class="block px-4 py-2 hover:bg-gray-100">伦理片</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/2.html" title="连续剧" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">连续剧
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/13.html" title="国产剧" class="block px-4 py-2 hover:bg-gray-100">国产剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/16.html" title="欧美剧" class="block px-4 py-2 hover:bg-gray-100">欧美剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/14.html" title="香港剧" class="block px-4 py-2 hover:bg-gray-100">香港剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/15.html" title="韩国剧" class="block px-4 py-2 hover:bg-gray-100">韩国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/21.html" title="台湾剧" class="block px-4 py-2 hover:bg-gray-100">台湾剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/22.html" title="日本剧" class="block px-4 py-2 hover:bg-gray-100">日本剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/23.html" title="海外剧" class="block px-4 py-2 hover:bg-gray-100">海外剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/24.html" title="泰国剧" class="block px-4 py-2 hover:bg-gray-100">泰国剧</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/36.html" title="短剧" class="block px-4 py-2 hover:bg-gray-100">短剧</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/4.html" title="动漫片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">动漫片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/29.html" title="国产动漫" class="block px-4 py-2 hover:bg-gray-100">国产动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/30.html" title="日韩动漫" class="block px-4 py-2 hover:bg-gray-100">日韩动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/31.html" title="欧美动漫" class="block px-4 py-2 hover:bg-gray-100">欧美动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/32.html" title="港台动漫" class="block px-4 py-2 hover:bg-gray-100">港台动漫</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/33.html" title="海外动漫" class="block px-4 py-2 hover:bg-gray-100">海外动漫</a></li></ul></div></li>
+<li>
+<a href="/index.php/vod/type/id/3.html" title="综艺片" class="text-center inline-flex items-center text-green-900 hover:text-blue-500">综艺片
+<svg class="w-2.5 h-2.5 ms-1" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"></path></svg></a>
+<div class="mt-2 z-10 bg-green-50/50 divide-y divide-gray-100 rounded-lg shadow w-auto">
+<ul class="grid grid-cols-2 py-2 text-base text-gray-700">
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/25.html" title="大陆综艺" class="block px-4 py-2 hover:bg-gray-100">大陆综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/26.html" title="港台综艺" class="block px-4 py-2 hover:bg-gray-100">港台综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/27.html" title="日韩综艺" class="block px-4 py-2 hover:bg-gray-100">日韩综艺</a></li>
+<li class="col-span-1">
+<a href="/index.php/vod/type/id/28.html" title="欧美综艺" class="block px-4 py-2 hover:bg-gray-100">欧美综艺</a></li></ul></div></li>
+<li class="text-center mb-2">
+<a href="/index.php/gbook/index.html" class="text-green-900 hover:text-blue-500 p-2 rounded-lg hover:bg-gray-100 group" title="求片">求片</a></li></ul></div></div>
+<script src="/template/opv1/assets/js/detail.js"></script>
+<div style="position: fixed; right: 20px; bottom: 80px; background: rgb(255, 87, 34); color: rgb(255, 255, 255); padding: 12px 16px; border-radius: 30px; cursor: pointer; font-size: 15px; z-index: 999999; box-shadow: rgba(0, 0, 0, 0.3) 0px 2px 10px;">提取M3U8</div>
+<div id="copyContent" style="opacity: 0; position: fixed; z-index: -9999;">ldg</div></body>
+<style id="A_T_S">*{-webkit-user-select:auto !important;}</style></html
+
+
+
+
+
+
+提取出来
+
+https://vip.dytt-tvs.com/20260906/35904_67e91755/index.m3u8#交锋2026第01集
+https://vip.dytt-tvs.com/20260906/35903_8697b0e9/index.m3u8#交锋2026第02集
+https://vip.dytt-tvs.com/20260906/35902_297599ea/index.m3u8#交锋2026第03集
+https://vip.dytt-tvs.com/20260906/35919_82b05ac4/index.m3u8#交锋2026第04集
+https://vip.dytt-tvs.com/20260907/36032_8ad87141/index.m3u8#交锋2026第05集
+https://vip.dytt-tvs.com/20260907/36031_61c0f06d/index.m3u8#交锋2026第06集
+https://vip.dytt-tvs.com/20260908/36175_3d29fb52/index.m3u8#交锋2026第07集
+https://vip.dytt-tvs.com/20260908/36176_a0c88573/index.m3u8#交锋2026第08集
+https://vip.dytt-tvs.com/20260909/36327_f5c317aa/index.m3u8#交锋2026第09集
+https://vip.dytt-tvs.com/20260909/36331_cd3b1a52/index.m3u8#交锋2026第10集
+https://vip.dytt-tvs.com/20260910/36471_0d99a0d5/index.m3u8#交锋2026第11集
+https://vip.dytt-tvs.com/20260910/36501_47984435/index.m3u8#交锋2026第12集
+https://vip.dytt-tvs.com/20260911/36638_882e283e/index.m3u8#交锋2026第13集
+https://vip.dytt-tvs.com/20260911/36647_a99509dc/index.m3u8#交锋2026第14集
+https://vip.dytt-tvs.com/20260912/36805_1676617e/index.m3u8#交锋2026第15集
+https://vip.dytt-tvs.com/20260912/36808_e91d9d8a/index.m3u8#交锋2026第16集
+https://vip.dytt-tvs.com/20260913/36920_a86cc0b4/index.m3u8#交锋2026第17集
+https://vip.dytt-tvs.com/20260913/36925_acf5f6c0/index.m3u8#交锋2026第18集
+https://vip.dytt-tvs.com/20260914/37031_f863c1c3/index.m3u8#交锋2026第19集
+https://vip.dytt-tvs.com/20260914/37035_4fd76758/index.m3u8#交锋2026第20集
+https://vip.dytt-tvs.com/20260915/37191_5b2afc07/index.m3u8#交锋2026第21集
+https://vip.dytt-tvs.com/20260915/37212_ffec991b/index.m3u8#交锋2026第22集
+https://vip.dytt-tvs.com/20260916/37302_fc980938/index.m3u8#交锋2026第23集
+https://vip.dytt-tvs.com/20260916/37306_89a86fb8/index.m3u8#交锋2026第24集
+https://vip.dytt-tvs.com/20260917/37443_ac9dba01/index.m3u8#交锋2026第25集
+https://play.phimgood.com/20260917/31356_5f795ee1/index.m3u8#交锋2026第26集
+https://vip.dytt-tvs.com/20260918/37607_bc75da6b/index.m3u8#交锋2026第27集
+https://vip.dytt-tvs.com/20260918/37619_263f71c1/index.m3u8#交锋2026第28集
+https://vip.dytt-tvs.com/20260919/37734_ca1a4a8c/index.m3u8#交锋2026第29集
+https://vip.dytt-tvs.com/20260919/37741_aa5b7386/index.m3u8#交锋2026第30集
+https://vip.dytt-tvs.com/20260920/37862_603effb4/index.m3u8#交锋2026第31集
+https://vip.dytt-tvs.com/20260920/37864_aa382244/index.m3u8#交锋2026第32集
+https://vip.dytt-tvs.com/20260921/37987_889198b3/index.m3u8#交锋2026第33集
+https://vip.dytt-tvs.com/20260921/37990_1b7fc124/index.m3u8#交锋2026第34集
+https://vip.dytt-tvs.com/20260922/38118_7604b240/index.m3u8#交锋2026第35集
+https://vip.dytt-tvs.com/20260922/38134_849dc2aa/index.m3u8#交锋2026第36集
+https://vip.dytt-tvs.com/20260922/38133_07f2d8db/index.m3u8#交锋2026第37集
+https://vip.dytt-tvs.com/20260922/38132_dfcfbb19/index.m3u8#交锋2026第38集
+https://vip.dytt-tvs.com/20260922/38131_8db9f220/index.m3u8#交锋2026第39集
+https://vip.dytt-tvs.com/20260922/38135_70a2a0fc/index.m3u8#交锋2026第40集
+
+
+
+
+能不能写这种脚本上面带关键词、出来这种批量的m3u8
+关键词弹窗输入、批量结果弹窗显示、点击复制、写py脚本
