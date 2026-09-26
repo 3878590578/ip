@@ -1,0 +1,488 @@
+// ===============================
+// Cloudflare Worker
+// 美国 AS906 VLESS 订阅
+// ===============================
+
+// ===== GitHub 源文件 =====
+const SOURCE_URL =
+  "https://raw.githubusercontent.com/3878590578/ip/refs/heads/main/美国906.txt";
+
+// ===== VLESS UUID =====
+const UUID =
+  "19db41ac-5f66-4a46-a733-a03c0e0ef04b";
+
+// ===== VLESS 固定参数 =====
+const SNI =
+  "vles-us.mofaxueyuan.kdns.fr";
+
+const HOST =
+  "vles-us.mofaxueyuan.kdns.fr";
+
+const PATH =
+  "%2Fvless-ws";
+
+// ===== KV =====
+const KV_KEY =
+  "US_AS906_SUBSCRIPTION";
+
+
+// ==========================================
+// Worker 主入口
+// ==========================================
+
+export default {
+
+  async fetch(request, env) {
+
+    const url = new URL(request.url);
+
+    // --------------------------
+    // 获取订阅
+    // --------------------------
+    if (url.pathname === "/cf") {
+
+      const subscription =
+        await env.SUB_KV.get(KV_KEY);
+
+      if (!subscription) {
+
+        return new Response(
+          "订阅暂未生成，请访问 /update 更新",
+          {
+            status: 404,
+            headers: {
+              "Content-Type":
+                "text/plain; charset=utf-8"
+            }
+          }
+        );
+      }
+
+      return new Response(
+        subscription,
+        {
+          headers: {
+            "Content-Type":
+              "text/plain; charset=utf-8",
+            "Cache-Control":
+              "no-cache"
+          }
+        }
+      );
+    }
+
+
+    // --------------------------
+    // 手动更新
+    // --------------------------
+    if (url.pathname === "/update") {
+
+      try {
+
+        const result =
+          await updateSubscription(env);
+
+        return new Response(
+          JSON.stringify(
+            {
+              success: true,
+              count: result.count,
+              updated: result.updated
+            },
+            null,
+            2
+          ),
+          {
+            headers: {
+              "Content-Type":
+                "application/json; charset=utf-8"
+            }
+          }
+        );
+
+      } catch (error) {
+
+        return new Response(
+          JSON.stringify(
+            {
+              success: false,
+              error: String(error)
+            },
+            null,
+            2
+          ),
+          {
+            status: 500,
+            headers: {
+              "Content-Type":
+                "application/json; charset=utf-8"
+            }
+          }
+        );
+      }
+    }
+
+
+    // --------------------------
+    // 信息
+    // --------------------------
+    if (url.pathname === "/info") {
+
+      const count =
+        await env.SUB_KV.get(
+          "NODE_COUNT"
+        );
+
+      const updated =
+        await env.SUB_KV.get(
+          "UPDATED_TIME"
+        );
+
+      return new Response(
+        JSON.stringify(
+          {
+            source: SOURCE_URL,
+            count: Number(count || 0),
+            updated: updated || null,
+            subscription:
+              `${url.origin}/cf`,
+            update:
+              `${url.origin}/update`
+          },
+          null,
+          2
+        ),
+        {
+          headers: {
+            "Content-Type":
+              "application/json; charset=utf-8"
+          }
+        }
+      );
+    }
+
+
+    // --------------------------
+    // 首页
+    // --------------------------
+    return new Response(
+      "US AS906 VLESS Worker\n\n" +
+      "/cf      获取订阅\n" +
+      "/update  手动更新\n" +
+      "/info    查看信息",
+      {
+        headers: {
+          "Content-Type":
+            "text/plain; charset=utf-8"
+        }
+      }
+    );
+  },
+
+
+  // ========================================
+  // 定时任务
+  // ========================================
+
+  async scheduled(event, env, ctx) {
+
+    ctx.waitUntil(
+      updateSubscription(env)
+    );
+
+  }
+
+};
+
+
+// ==========================================
+// 更新订阅
+// ==========================================
+
+async function updateSubscription(env) {
+
+  const result =
+    await processSource();
+
+  const updated =
+    new Date().toISOString();
+
+  // 保存订阅
+  await env.SUB_KV.put(
+    KV_KEY,
+    result.subscription
+  );
+
+  // 保存更新时间
+  await env.SUB_KV.put(
+    "UPDATED_TIME",
+    updated
+  );
+
+  // 保存节点数量
+  await env.SUB_KV.put(
+    "NODE_COUNT",
+    String(result.count)
+  );
+
+  return {
+    count: result.count,
+    updated: updated
+  };
+}
+
+
+// ==========================================
+// 获取并处理 GitHub 源文件
+// ==========================================
+
+async function processSource() {
+
+  const response =
+    await fetch(
+      SOURCE_URL,
+      {
+        headers: {
+          "User-Agent":
+            "Mozilla/5.0"
+        }
+      }
+    );
+
+  if (!response.ok) {
+
+    throw new Error(
+      `GitHub 获取失败：HTTP ${response.status}`
+    );
+  }
+
+  const text =
+    await response.text();
+
+
+  // --------------------------
+  // 按行处理
+  // --------------------------
+
+  const lines =
+    text
+      .split(/\r?\n/)
+      .map(line => line.trim())
+      .filter(Boolean);
+
+
+  const nodes = [];
+
+
+  for (const line of lines) {
+
+    /*
+      支持：
+
+      1.2.3.4:443#US United States AS906 xxx
+
+      1.2.3.4:8443#US-AS906 xxx
+    */
+
+    const match =
+      line.match(
+        /^(\d{1,3}(?:\.\d{1,3}){3}):(\d+)\s*#?(.*)$/
+      );
+
+    if (!match) {
+      continue;
+    }
+
+
+    const ip =
+      match[1];
+
+    const port =
+      match[2];
+
+    const remark =
+      match[3] || "";
+
+
+    // --------------------------
+    // 判断是否 US-AS906
+    // --------------------------
+
+    const upperRemark =
+      remark.toUpperCase();
+
+
+    const isUS =
+      upperRemark.includes("US") ||
+      upperRemark.includes("UNITED STATES") ||
+      remark.includes("美国");
+
+
+    const isAS906 =
+      upperRemark.includes("AS906") ||
+      upperRemark.includes("AS 906");
+
+
+    if (!isUS || !isAS906) {
+      continue;
+    }
+
+
+    // --------------------------
+    // IP 合法性检查
+    // --------------------------
+
+    const ipParts =
+      ip.split(".").map(Number);
+
+    if (
+      ipParts.length !== 4 ||
+      ipParts.some(
+        n => n < 0 || n > 255
+      )
+    ) {
+      continue;
+    }
+
+
+    // --------------------------
+    // 保存
+    // --------------------------
+
+    nodes.push({
+      ip: ip,
+      port: port,
+      remark: remark
+    });
+  }
+
+
+  // ========================================
+  // 按 IP 数字顺序排序
+  // ========================================
+
+  nodes.sort(
+    (a, b) => {
+
+      const aParts =
+        a.ip.split(".").map(Number);
+
+      const bParts =
+        b.ip.split(".").map(Number);
+
+
+      for (
+        let i = 0;
+        i < 4;
+        i++
+      ) {
+
+        if (
+          aParts[i] !==
+          bParts[i]
+        ) {
+
+          return (
+            aParts[i] -
+            bParts[i]
+          );
+        }
+      }
+
+
+      return (
+        Number(a.port) -
+        Number(b.port)
+      );
+    }
+  );
+
+
+  // ========================================
+  // IP:PORT 去重
+  // ========================================
+
+  const seen =
+    new Set();
+
+  const uniqueNodes = [];
+
+
+  for (const node of nodes) {
+
+    const key =
+      `${node.ip}:${node.port}`;
+
+    if (seen.has(key)) {
+      continue;
+    }
+
+    seen.add(key);
+
+    uniqueNodes.push(node);
+  }
+
+
+  // ========================================
+  // 生成 VLESS
+  // ========================================
+
+  const vlessList =
+    uniqueNodes.map(
+      (node, index) => {
+
+        return makeVLESS(
+          node.ip,
+          node.port,
+          index + 1
+        );
+      }
+    );
+
+
+  return {
+
+    subscription:
+      vlessList.join("\n"),
+
+    count:
+      vlessList.length
+  };
+}
+
+
+// ==========================================
+// VLESS 节点生成
+// ==========================================
+
+function makeVLESS(
+  ip,
+  port,
+  index
+) {
+
+  const name =
+    "美国🇺🇸⚡️-" +
+    index;
+
+
+  return (
+    "vless://" +
+    UUID +
+    "@" +
+    ip +
+    ":" +
+    port +
+    "?encryption=none" +
+    "&security=tls" +
+    "&sni=" +
+    SNI +
+    "&type=ws" +
+    "&host=" +
+    HOST +
+    "&path=" +
+    PATH +
+    "#" +
+    name
+  );
+}
