@@ -9,25 +9,24 @@
 216.10.243.159:443#🇮🇳印度IN-AS394695-P.D.R Solutions FZC-1
 170.187.237.195:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-2
 94.136.185.7:8443#🇮🇳印度IN-AS141995-Contabo Asia Private Limited-1
-13.200.106.232:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
 5.253.29.83:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-1
 168.144.154.79:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-1
 168.144.68.202:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-2
 167.71.238.69:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
 172.232.118.174:443#🇮🇳印度IN-AS63949-Linode-3
 98.70.26.236:443#🇮🇳印度IN-AS8075-Microsoft Corporation-4
-52.66.200.252:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
+52.66.200.252:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
 143.110.188.241:443#🇮🇳印度IN-AS58678-MANNDESHI GURU NET PRIVATE LIMITED-1
-35.154.184.88:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
+35.154.184.88:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
 65.20.85.14:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-1
 64.227.164.129:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-4
 20.235.220.189:443#🇮🇳印度IN-AS8075-Microsoft Corporation-5
 139.84.156.127:443#🇮🇳印度IN-AS13335-Cloudflare London, LLC-1
 139.84.216.50:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
 170.187.237.198:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
-65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-4
+65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
 139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
-13.126.206.240:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-5
+13.126.206.240:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-4
 68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-1
 68.233.109.59:2087#🇮🇳印度IN-AS31898-Oracle Corporation-2
 5.253.30.171:8443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-2
