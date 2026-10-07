@@ -15,6 +15,7 @@
 54.254.226.116:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-13
 18.138.34.221:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-14
 13.212.102.10:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-15
+13.250.131.37:443#🇸🇬新加坡SG-AS16509-Amazon Data Services Singapore-1
 54.250.165.210:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-1
 54.168.245.61:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-2
 13.231.221.179:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-3
