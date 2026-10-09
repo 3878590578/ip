@@ -1,5 +1,3 @@
-95.40.77.144:443#🇭🇰香港HK-AS16509-Amazon.com, Inc.-1
-43.213.230.249:443#🇨🇳台湾TW-AS16509-Infrastructure-1
 13.213.218.87:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-1
 18.141.208.166:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-2
 122.248.238.214:443#🇸🇬新加坡SG-AS16509-Amazon.com, Inc.-3
@@ -52,7 +50,6 @@
 13.231.172.130:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-36
 54.168.245.61:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-37
 52.195.211.96:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-38
-13.193.215.10:443#🇯🇵日本JP-AS16509-Amazon.com, Inc.-39
 54.95.106.234:443#🇯🇵日本JP-AS16509-Amazon Data Services Japan-1
 54.180.151.15:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-1
 54.71.224.27:8443#🇺🇸美国US-AS16509-Amazon.com, Inc.-1

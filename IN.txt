@@ -23,8 +23,6 @@
 168.144.154.79:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
 167.71.238.69:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-4
 139.84.141.87:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
-139.84.216.50:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
-139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-4
-139.84.146.103:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
-139.84.221.153:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-6
-107.181.139.85:443#🇮🇳印度IN-AS213535-YottaSrc Hosting and Cloud Service-1
+139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
+139.84.146.103:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-4
+139.84.221.153:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
