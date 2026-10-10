@@ -1,28 +1,55 @@
-4.240.110.47:443#🇮🇳印度IN-AS8075-Microsoft Corporation-1
-20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-2
-68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-1
-20.235.220.189:443#🇮🇳印度IN-AS8075-Microsoft Corporation-3
-98.70.26.236:443#🇮🇳印度IN-AS8075-Microsoft Corporation-4
-68.233.109.59:2087#🇮🇳印度IN-AS31898-Oracle Corporation-2
-170.187.237.10:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-1
-172.236.187.52:443#🇮🇳印度IN-AS63949-Linode-1
-35.154.184.88:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
-170.187.237.195:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-2
-65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
-20.235.105.146:443#🇮🇳印度IN-AS8075-Microsoft Corporation-5
-103.111.114.87:443#🇮🇳印度IN-AS8849-Melbikomas UAB-1
+20.235.105.146:443#🇮🇳印度IN-AS8075-Microsoft Corporation-1
+68.233.109.59:2087#🇮🇳印度IN-AS31898-Oracle Corporation-1
+20.235.220.189:443#🇮🇳印度IN-AS8075-Microsoft Corporation-2
+4.240.110.47:443#🇮🇳印度IN-AS8075-Microsoft Corporation-3
+68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-2
+20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-4
+98.70.26.236:443#🇮🇳印度IN-AS8075-Microsoft Corporation-5
+65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
+13.233.174.246:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
+13.233.229.128:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
+172.105.50.77:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-1
 157.20.27.35:443#🇮🇳印度IN-AS149020-1
-5.253.29.83:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-1
-52.66.200.252:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
-170.187.237.198:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
-13.126.206.240:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-4
-65.20.85.14:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-1
-94.136.185.7:8443#🇮🇳印度IN-AS141995-Contabo Asia Private Limited-1
-168.144.68.202:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-1
-168.144.155.167:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-2
-168.144.154.79:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
-167.71.238.69:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-4
-139.84.141.87:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
-139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
-139.84.146.103:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-4
-139.84.221.153:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
+216.10.243.159:443#🇮🇳印度IN-AS394695-P.D.R Solutions FZC-1
+5.253.30.230:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-1
+130.210.29.22:8443#🇮🇳印度IN-AS31898-Oracle Corporation-3
+52.66.200.252:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-4
+5.253.30.228:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-2
+65.20.87.219:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-1
+5.253.30.225:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-3
+172.105.54.87:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-2
+13.126.206.240:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-5
+172.232.85.192:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
+172.232.85.173:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-4
+65.20.85.14:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
+192.46.211.6:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-5
+103.111.114.87:443#🇮🇳印度IN-AS8849-Melbikomas UAB-1
+172.104.206.25:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-6
+65.20.80.121:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
+172.104.207.171:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-7
+172.232.85.65:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-8
+157.20.27.130:8443#🇮🇳印度IN-AS58678-MANNDESHI GURU NET PRIVATE LIMITED-1
+170.187.237.10:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-9
+140.238.243.203:443#🇮🇳印度IN-AS31898-Oracle Corporation-4
+5.253.29.83:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-4
+65.20.80.227:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-4
+172.236.187.52:443#🇮🇳印度IN-AS63949-Linode-1
+178.92.120.149:443#🇮🇳印度IN-AS16276-NET 178 92 120 0 24-1
+5.253.30.226:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-5
+86.107.100.126:443#🇮🇳印度IN-AS26383-Baxet Group Inc.-1
+139.84.222.158:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
+139.84.221.153:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-6
+168.144.155.167:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-1
+139.84.150.190:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-7
+139.84.146.103:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-8
+139.84.141.87:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-9
+168.144.154.79:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-2
+139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-10
+167.71.238.69:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
+139.84.214.148:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-11
+64.227.173.69:8443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-4
+64.227.164.129:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-5
+168.144.70.236:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-6
+168.144.68.202:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-7
+72.60.223.48:8443#🇮🇳印度IN-AS47583-HOSTINGER IN-1
+139.84.164.189:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-12

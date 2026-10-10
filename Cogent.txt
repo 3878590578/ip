@@ -1,5 +1,9 @@
-154.41.80.155:8443#🇺🇸美国US-AS174-Cogent Communications, LLC-1
-38.58.108.15:443#🇺🇸美国US-AS174-Cogent Communications, LLC-2
+38.58.108.84:443#🇺🇸美国US-AS174-Cogent Communications, LLC-1
+154.41.80.59:443#🇺🇸美国US-AS174-Cogent Communications, LLC-2
 149.7.2.79:443#🇺🇸美国US-AS174-Cogent Communications, LLC-3
 149.7.2.142:443#🇺🇸美国US-AS174-Cogent Communications, LLC-4
-38.58.108.84:443#🇺🇸美国US-AS174-Cogent Communications, LLC-5
+154.41.80.90:443#🇺🇸美国US-AS174-Cogent Communications, LLC-5
+38.78.146.80:443#🇺🇸美国US-AS174-NetLab-1
+38.58.108.15:443#🇺🇸美国US-AS174-Cogent Communications, LLC-6
+154.41.80.155:8443#🇺🇸美国US-AS174-Cogent Communications, LLC-7
+38.45.66.185:8443#🇺🇸美国US-AS174-Cogent Communications, LLC-8
