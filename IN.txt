@@ -23,7 +23,6 @@
 172.232.85.173:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-4
 65.20.85.14:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
 192.46.211.6:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-5
-103.111.114.87:443#🇮🇳印度IN-AS8849-Melbikomas UAB-1
 172.104.206.25:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-6
 65.20.80.121:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
 172.104.207.171:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-7

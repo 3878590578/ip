@@ -33,7 +33,5 @@
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
 85.237.207.101:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-18
 111.250.38.2:443#🇨🇳台湾TW-AS3462-HiNet Taiwan-2
-154.64.250.169:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-1
-43.249.174.123:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-19
-202.148.221.133:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-2
+202.148.221.133:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-1
 23.146.248.149:443#🇨🇳台湾TW-AS204844-NCSE NETWORK, LLC-1
