@@ -17,21 +17,18 @@
 85.237.207.41:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
 85.237.207.78:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-14
 85.237.207.28:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-15
-83.147.15.253:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-16
-103.131.189.111:443#🇨🇳台湾TW-AS9678-SoftShell Hosting-1
 140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
-142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-17
-103.131.189.195:443#🇨🇳台湾TW-AS9678-SoftShell Hosting-2
+142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-16
+103.131.189.195:443#🇨🇳台湾TW-AS9678-SoftShell Hosting-1
 111.250.38.2:443#🇨🇳台湾TW-AS3462-HiNet Taiwan-1
-82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-18
-35.201.195.155:8443#🇨🇳台湾TW-AS396982-Google LLC-1
+82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-17
 114.34.210.159:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-1
 114.32.9.249:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-2
 103.61.139.196:443#🇨🇳台湾TW-AS31972-Xiang Ao Communications Co. Ltd.-1
 114.32.43.140:2087#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-3
-35.185.136.126:443#🇨🇳台湾TW-AS396982-Google LLC-2
+35.185.136.126:443#🇨🇳台湾TW-AS396982-Google LLC-1
 59.127.88.131:443#🇨🇳台湾TW-AS3462-HiNet Taiwan-2
 140.235.39.19:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
 202.148.221.133:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-1
-34.80.199.41:443#🇨🇳台湾TW-AS396982-Google LLC-3
+34.80.199.41:443#🇨🇳台湾TW-AS396982-Google LLC-2

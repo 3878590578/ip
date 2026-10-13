@@ -47,6 +47,7 @@
 140.238.15.158:443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-4
 193.123.236.206:443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
 47.80.57.116:443#🇰🇷韩国KR-AS45102-Alibaba Cloud LLC-1
+64.176.226.26:8443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-15
 146.56.45.96:443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
 146.56.167.171:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
 27.102.132.165:443#🇰🇷韩国KR-AS45996-KCInfra Inc.-2
@@ -79,7 +80,7 @@
 134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-27
 3.37.58.69:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-14
 123.111.169.70:443#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-1
-158.247.210.172:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-15
+158.247.210.172:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-16
 140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-28
 144.24.78.206:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-1
 140.245.65.12:2053#🇰🇷韩国KR-AS31898-Oracle Corporation-29

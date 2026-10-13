@@ -1,7 +1,9 @@
-20.6.12.145:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-1
-20.212.51.155:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-2
-4.194.24.240:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-3
-20.106.211.232:443#🇺🇸美国US-AS8075-Microsoft Corporation-1
+4.194.113.191:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-1
+20.6.12.145:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-2
+20.212.51.155:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-3
+4.194.24.240:443#🇸🇬新加坡SG-AS8075-Microsoft Corporation-4
+20.83.126.133:2053#🇺🇸美国US-AS8075-Microsoft Corporation-1
+20.106.211.232:443#🇺🇸美国US-AS8075-Microsoft Corporation-2
 20.39.37.65:443#🇺🇸美国US-AS8075-Microsoft Limited-1
 20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-1
 4.240.110.47:443#🇮🇳印度IN-AS8075-Microsoft Corporation-2
