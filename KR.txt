@@ -62,7 +62,6 @@
 140.245.70.145:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
 144.24.90.178:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
 3.37.58.69:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-12
-146.56.116.59:443#🇰🇷韩国KR-AS31898-Oracle Corporation , Global software solutions , California , USA-2
 168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
 168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
 134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
