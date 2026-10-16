@@ -12,68 +12,66 @@
 132.145.91.135:443#🇰🇷韩国KR-AS31898-Oracle Corporation-3
 141.164.34.193:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-4
 158.247.253.111:2087#🇰🇷韩国KR-AS20473-The Constant Company, LLC-5
-140.238.30.217:443#🇰🇷韩国KR-AS31898-Oracle Corporation-4
 150.109.240.55:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-2
 193.122.119.241:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-4
 119.28.162.98:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-3
 52.79.49.235:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-1
 123.111.169.70:443#🇰🇷韩国KR-AS9318-SK Broadband Co Ltd-1
-130.162.137.247:443#🇰🇷韩国KR-AS31898-Oracle Corporation-5
+130.162.137.247:443#🇰🇷韩国KR-AS31898-Oracle Corporation-4
 130.94.29.155:443#🇰🇷韩国KR-AS154177-LIGHT NODE LIMITED-1
 43.164.132.109:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-4
-64.110.82.71:443#🇰🇷韩国KR-AS31898-Oracle Corporation-6
-146.56.187.1:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-7
+64.110.82.71:443#🇰🇷韩国KR-AS31898-Oracle Corporation-5
+146.56.187.1:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-6
 131.186.26.94:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-5
 158.247.224.240:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-6
 146.56.188.74:443#🇰🇷韩国KR-AS31898-Oracle Corporation , Global software solutions , California , USA-1
 141.164.52.204:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-7
 158.247.240.138:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-8
-152.70.237.30:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-8
+152.70.237.30:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-7
 43.155.221.27:8443#🇰🇷韩国KR-AS13335-Cloudflare London, LLC-2
 141.164.44.60:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-9
-146.56.45.96:443#🇰🇷韩国KR-AS31898-Oracle Corporation-9
+146.56.45.96:443#🇰🇷韩国KR-AS31898-Oracle Corporation-8
 141.164.56.22:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-10
 54.116.250.226:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-2
-146.56.151.92:443#🇰🇷韩国KR-AS31898-Oracle Corporation-10
+146.56.151.92:443#🇰🇷韩国KR-AS31898-Oracle Corporation-9
 103.218.173.218:443#🇰🇷韩国KR-AS139648-PacketStream Hosting Network-1
-193.122.115.184:443#🇰🇷韩国KR-AS31898-Oracle Corporation-11
+193.122.115.184:443#🇰🇷韩国KR-AS31898-Oracle Corporation-10
 54.116.249.102:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-3
 3.38.190.222:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-4
-64.110.70.64:443#🇰🇷韩国KR-AS31898-Oracle Corporation-12
-13.209.14.100:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-5
-43.202.32.50:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-6
-13.125.141.213:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-7
+64.110.70.64:443#🇰🇷韩国KR-AS31898-Oracle Corporation-11
+43.202.32.50:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-5
+13.125.141.213:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-6
 152.67.210.234:443#🇰🇷韩国KR-AS31898-Oracle Public Cloud-6
-193.123.236.206:443#🇰🇷韩国KR-AS31898-Oracle Corporation-13
+193.123.236.206:443#🇰🇷韩国KR-AS31898-Oracle Corporation-12
 43.164.139.71:443#🇰🇷韩国KR-AS132203-ACEVILLE PTE.LTD.-5
 158.247.222.168:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-11
 158.247.201.201:8443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-12
 64.176.234.15:8443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-13
-52.79.188.223:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-8
-144.24.71.172:443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
-13.125.9.223:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-9
-54.180.151.15:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-10
-52.78.141.133:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-11
+52.79.188.223:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-7
+144.24.71.172:443#🇰🇷韩国KR-AS31898-Oracle Corporation-13
+13.125.9.223:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-8
+54.180.151.15:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-9
+52.78.141.133:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-10
 141.164.34.161:8443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-14
 141.164.35.4:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-15
-168.107.36.135:443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
+168.107.36.135:443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
 158.247.210.172:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-16
-140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
-140.245.70.145:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
-144.24.90.178:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
-3.37.58.69:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-12
-168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
-168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
-134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
-129.154.61.118:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
-152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
-152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
-152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-25
-168.107.9.88:443#🇰🇷韩国KR-AS31898-Oracle Corporation-26
+140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
+140.245.70.145:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
+144.24.90.178:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
+3.37.58.69:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-11
+168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
+168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
+134.185.99.52:443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
+129.154.61.118:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
+152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
+152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-24
+168.107.9.88:443#🇰🇷韩国KR-AS31898-Oracle Corporation-25
 119.205.235.58:443#🇰🇷韩国KR-AS4766-Korea Telecom-1
-168.110.110.16:443#🇰🇷韩国KR-AS31898-Oracle Corporation-27
+168.110.110.16:443#🇰🇷韩国KR-AS31898-Oracle Corporation-26
 144.24.78.206:443#🇰🇷韩国KR-AS31898-Oracle Corp UK Ltd-1
-134.185.100.238:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-28
-168.107.16.68:443#🇰🇷韩国KR-AS31898-Oracle Corporation-29
-168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-30
-140.245.65.12:2053#🇰🇷韩国KR-AS31898-Oracle Corporation-31
+134.185.100.238:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-27
+168.107.16.68:443#🇰🇷韩国KR-AS31898-Oracle Corporation-28
+168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-29
+140.245.65.12:2053#🇰🇷韩国KR-AS31898-Oracle Corporation-30
