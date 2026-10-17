@@ -8,7 +8,6 @@
 192.46.211.6:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
 5.253.28.82:2053#🇮🇳印度IN-AS153914-BEAFORT LIMITED-2
 65.20.80.227:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
-216.10.243.159:443#🇮🇳印度IN-AS394695-P.D.R Solutions FZC-1
 20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-3
 172.232.85.192:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-4
 172.105.52.59:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-5
