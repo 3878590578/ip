@@ -19,10 +19,10 @@
 140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-5
 35.185.136.126:443#🇨🇳台湾TW-AS396982-Google LLC-1
 82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
-85.237.207.41:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
 34.80.199.41:443#🇨🇳台湾TW-AS396982-Google LLC-2
-83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
-45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
+83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
+45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
 202.148.221.133:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-2
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
-83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
+83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
+142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
