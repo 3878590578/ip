@@ -9,14 +9,12 @@
 78.105.183.127:8443#🇨🇳台湾TW-AS142433-DATAWAVE GLOBAL LLC-1
 85.237.207.141:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
 140.235.39.19:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-2
-140.235.39.121:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
 114.32.43.140:2087#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-1
 114.34.210.159:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-2
 85.237.207.78:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
-111.250.38.2:443#🇨🇳台湾TW-AS3462-HiNet Taiwan-1
-151.242.189.40:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
+151.242.189.40:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
 103.61.139.196:443#🇨🇳台湾TW-AS31972-Xiang Ao Communications Co. Ltd.-1
-140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-5
+140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
 35.185.136.126:443#🇨🇳台湾TW-AS396982-Google LLC-1
 82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
 34.80.199.41:443#🇨🇳台湾TW-AS396982-Google LLC-2
