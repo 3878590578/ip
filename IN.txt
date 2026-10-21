@@ -1,22 +1,21 @@
-170.187.237.198:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-1
 20.235.220.189:443#🇮🇳印度IN-AS8075-Microsoft Corporation-1
 20.235.105.146:443#🇮🇳印度IN-AS8075-Microsoft Corporation-2
 5.253.30.228:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-1
-172.105.50.77:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-2
+172.105.50.77:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-1
 172.236.187.52:443#🇮🇳印度IN-AS63949-Linode-1
 65.20.87.219:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-1
-192.46.211.6:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
+192.46.211.6:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-2
 5.253.28.82:2053#🇮🇳印度IN-AS153914-BEAFORT LIMITED-2
 65.20.80.227:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-2
 216.10.243.159:443#🇮🇳印度IN-AS394695-P.D.R Solutions FZC-1
 20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-3
-172.232.85.192:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-4
-172.105.52.59:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-5
+172.232.85.192:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-3
+172.105.52.59:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-4
 5.253.30.225:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-3
 5.253.30.226:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-4
-172.232.85.65:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-6
+172.232.85.65:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-5
 65.20.80.121:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-3
-172.104.207.171:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-7
+172.104.207.171:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-6
 4.240.110.47:443#🇮🇳印度IN-AS8075-Microsoft Corporation-4
 5.253.30.230:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-5
 72.60.223.48:8443#🇮🇳印度IN-AS47583-HOSTINGER IN-1
@@ -27,23 +26,23 @@
 5.253.30.171:8443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-6
 139.84.222.158:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
 13.233.174.246:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
-172.104.206.25:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-8
+172.104.206.25:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-7
 157.20.27.35:443#🇮🇳印度IN-AS149020-1
 139.84.221.153:8443#🇮🇳印度IN-AS20473-The Constant Company, LLC-6
 68.233.109.59:2087#🇮🇳印度IN-AS31898-Oracle Corporation-1
 5.253.29.241:2053#🇮🇳印度IN-AS153914-BEAFORT LIMITED-7
 139.84.164.189:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-7
-172.232.85.173:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-9
+172.232.85.173:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-8
 65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
 168.144.70.236:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-1
 139.84.214.148:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-8
 139.84.135.130:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-9
 64.227.164.129:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-2
 5.253.29.83:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-8
-170.187.237.10:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-10
+170.187.237.10:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-9
 35.154.184.88:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
 168.144.155.167:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
-172.105.54.87:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-11
+172.105.54.87:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-10
 68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-2
 140.238.243.203:443#🇮🇳印度IN-AS31898-Oracle Corporation-3
 5.253.30.229:443#🇮🇳印度IN-AS153914-BEAFORT LIMITED-9
