@@ -10,15 +10,16 @@
 114.32.43.140:2087#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-1
 114.34.210.159:443#🇨🇳台湾TW-AS3462-Chunghwa Telecom Data Communication Business Group-2
 85.237.207.78:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
+141.11.86.163:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
 151.242.189.40:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
 103.61.139.196:443#🇨🇳台湾TW-AS31972-Xiang Ao Communications Co. Ltd.-1
 140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-4
 35.185.136.126:443#🇨🇳台湾TW-AS396982-Google LLC-1
-82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
+82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
 34.80.199.41:443#🇨🇳台湾TW-AS396982-Google LLC-2
-83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-10
-45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
+83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-11
+45.207.159.187:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
 202.148.221.133:443#🇨🇳台湾TW-AS134823-Imcloud Technology Co., Ltd.-1
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
-83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-12
-142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
+83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-13
+142.249.60.51:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-14
