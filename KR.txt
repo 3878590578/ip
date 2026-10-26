@@ -53,8 +53,7 @@
 3.37.58.69:443#🇰🇷韩国KR-AS16509-Amazon.com, Inc.-7
 168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
 168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
-152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
-152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
-152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
+152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-20
+152.69.229.110:443#🇰🇷韩国KR-AS31898-Oracle Corporation-21
 119.205.235.58:443#🇰🇷韩国KR-AS4766-Korea Telecom-1
-168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-23
+168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-22
