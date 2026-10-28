@@ -3,4 +3,3 @@
 149.7.2.142:443#🇺🇸美国US-AS174-Cogent Communications, LLC-3
 149.7.2.79:443#🇺🇸美国US-AS174-Cogent Communications, LLC-4
 38.58.108.15:443#🇺🇸美国US-AS174-Cogent Communications, LLC-5
-38.45.66.185:8443#🇺🇸美国US-AS174-Cogent Communications, LLC-6
