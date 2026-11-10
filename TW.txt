@@ -7,7 +7,5 @@
 85.237.207.141:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-6
 140.235.39.19:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-2
 140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
-82.152.91.210:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
-83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-8
+83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-7
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
-83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-9
