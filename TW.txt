@@ -1,9 +1,9 @@
 188.253.6.249:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-1
-83.147.15.17:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-2
-141.11.86.150:8443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-3
-85.237.207.141:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-4
-140.235.39.19:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-1
-140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-2
-83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-5
+141.11.86.150:8443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-2
+151.242.188.249:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-1
+85.237.207.141:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-3
+140.235.39.19:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-2
+140.235.39.162:443#🇨🇳台湾TW-AS212336-ByteVirt LLC-3
+83.147.13.193:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-4
 140.115.53.51:443#🇨🇳台湾TW-AS207705-TW NCU-1
-83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-6
+83.147.15.84:443#🇨🇳台湾TW-AS38136-Akari Networks (Taipei)-5
