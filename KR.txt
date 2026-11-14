@@ -39,4 +39,3 @@
 168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
 152.67.198.36:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
 152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-18
-168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-19
