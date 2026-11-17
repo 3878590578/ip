@@ -5,3 +5,4 @@
 4.236.130.132:443#🇺🇸美国US-AS8075-Microsoft Corporation-2
 20.235.220.189:443#🇮🇳印度IN-AS8075-Microsoft Corporation-1
 20.219.46.208:8443#🇮🇳印度IN-AS8075-Microsoft Corporation-2
+4.240.110.47:443#🇮🇳印度IN-AS8075-Microsoft Corporation-3
