@@ -33,8 +33,7 @@
 158.247.210.172:443#🇰🇷韩国KR-AS20473-The Constant Company, LLC-9
 140.245.65.122:443#🇰🇷韩国KR-AS31898-Oracle Corporation-11
 140.245.70.145:443#🇰🇷韩国KR-AS31898-Oracle Corporation-12
-144.24.90.178:443#🇰🇷韩国KR-AS31898-Oracle Corporation-13
-168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
-168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
-152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
-168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-17
+168.107.59.24:443#🇰🇷韩国KR-AS31898-Oracle Corporation-13
+168.107.40.4:8443#🇰🇷韩国KR-AS31898-Oracle Corporation-14
+152.67.199.150:443#🇰🇷韩国KR-AS31898-Oracle Corporation-15
+168.107.36.254:443#🇰🇷韩国KR-AS31898-Oracle Corporation-16
