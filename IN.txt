@@ -20,7 +20,6 @@
 13.233.174.246:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-1
 172.104.206.25:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-6
 157.20.27.35:443#🇮🇳印度IN-AS149020-1
-68.233.109.59:2087#🇮🇳印度IN-AS31898-Oracle Corporation-1
 139.84.164.189:443#🇮🇳印度IN-AS20473-The Constant Company, LLC-5
 172.232.85.173:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-7
 65.2.215.47:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-2
@@ -32,12 +31,12 @@
 35.154.184.88:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-3
 168.144.155.167:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-3
 172.105.54.87:443#🇮🇳印度IN-AS63949-Akamai Connected Cloud / Linode-9
-68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-2
-140.238.243.203:443#🇮🇳印度IN-AS31898-Oracle Corporation-3
+68.233.107.29:443#🇮🇳印度IN-AS31898-Oracle Corporation-1
+140.238.243.203:443#🇮🇳印度IN-AS31898-Oracle Corporation-2
 13.233.229.128:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-4
 94.136.185.7:8443#🇮🇳印度IN-AS141995-Contabo Asia Private Limited-1
 52.66.200.252:443#🇮🇳印度IN-AS16509-Amazon.com, Inc.-5
-130.210.29.22:8443#🇮🇳印度IN-AS31898-Oracle Corporation-4
+130.210.29.22:8443#🇮🇳印度IN-AS31898-Oracle Corporation-3
 168.144.154.79:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-4
 167.71.238.69:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-5
 168.144.68.202:443#🇮🇳印度IN-AS14061-DigitalOcean, LLC-6
